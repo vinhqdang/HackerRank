@@ -1,0 +1,53 @@
+---
+title: "HackerRank Email Opening Prediction"
+author: "Vinh Dang"
+date: "September 4, 2016"
+output: pdf_document
+---
+
+
+#Data Preprocessing
+
+The problem is defined as, given an email with several pre-calculated features, we need to predict whether or not this email will be opened by users.
+
+The first task is obviously reading datasets
+
+```{r}
+train = read.csv("training_dataset.csv")
+test = read.csv("test_dataset.csv")
+```
+
+Let's take a look into two datasets
+
+```{r}
+str(train)
+```
+
+```{r}
+str(test)
+```
+
+Several features appeared uniquely in train dataset. While I am not intending to use any unsupervised techniques, they should be removed.
+
+```{r}
+train$click_time = NULL
+train$clicked = NULL
+train$open_time = NULL
+train$unsubscribe_time = NULL
+train$unsubscribed = NULL
+```
+
+What is the distribution of the train set
+
+```{r}
+summary (train$opened)
+
+```
+
+Seems that the opened emails cover 66% of the train dataset (majority threshold). Any predictive model should do better than that.
+
+# Model Selection
+
+The problem is a binary-classification. I validated three predictive models: logistic regression, random forest and deep feed-forward neural network (DNN).
+
+Using 5-folds cross validation on the training dataset, we chose DNN as our final model, because it achieved the best F1-score and accuracy in compare to other models.

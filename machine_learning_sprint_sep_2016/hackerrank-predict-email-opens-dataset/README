@@ -1,0 +1,14 @@
+## Running:
+
+- You need to install R (>= 3.3.1) 64-bit version
+- Put the R file in same directory with two CSV (train & test) files
+- Loading R, set the working directory (by using the command `setwd`) to the directory of the source code and two CSV files
+- Load R file (`source()` command)
+- Run corresponding function:
+  -- `process_email_dnn` for using deep neural networks
+  -- `process_email_rf` for using RandomForest
+  -- `process_email_glm` for logistic regression
+- By default these functions will write output to `prediction.csv` file. However, you can change it by passing the file name to `output_file` parameter in all three functions.
+- External libraries:
+  -- h2o (http://www.h2o.ai/)
+  -- caret (http://topepo.github.io/caret/index.html)
