@@ -1,0 +1,8 @@
+The implementation is provided in the file predict_stock_price.R
+
+To reproduce the results, just open R and do:
+
+setwd ("to this directory)
+source ("predict_stock_price.R")
+
+
