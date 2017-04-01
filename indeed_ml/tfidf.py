@@ -69,10 +69,16 @@ def tfidf(documents):
     return tfidf_documents
 
 # heuristic code
+def strip_non_ascii(string):
+    ''' Returns the string without non ASCII characters'''
+    stripped = (c for c in string if 0 < ord(c) < 127)
+    return ''.join(stripped)
+# 
 def remove_useless_words (text):
     res = text.replace ('EOE','')
     res = [word for word in res.lower().split() if word not in stopwords.words('english')]
     res = ' '.join (res)
+    res = strip_non_ascii (res)
     return res
 
 tag_list = ['part-time-job', 'full-time-job', 'hourly-wage', 'salary', 'associate-needed',  'bs-degree-needed', 'ms-or-phd-needed', 'licence-needed', \
