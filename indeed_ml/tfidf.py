@@ -90,7 +90,10 @@ all_tags = []
 print ('Load train file')
 with open (args.train_file, 'r') as f:
     next(f)
+    count = 1
     for line in f:
+        print ('Load line ' + str (count) + ' of train file')
+        count += 1
         raw_tags, content = line.split ('\t')
         tags = raw_tags.split()
         found_tags = [False] * len (tag_list)
@@ -104,7 +107,10 @@ with open (args.train_file, 'r') as f:
 print ('Load test file')
 with open (args.test_file, 'r') as f:
     next(f)
+    count = 0
     for line in f:
+        print ('Load line ' + str (count) + ' of train file')
+        count += 1
         content = line.strip()
         content = remove_useless_words(content)
         all_documents.append(content)
