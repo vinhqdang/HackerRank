@@ -76,7 +76,7 @@ def strip_non_ascii(string):
 # 
 def remove_useless_words (text):
     res = text.replace ('EOE','')
-    es = strip_non_ascii (res)
+    res = strip_non_ascii (res)
     res = [word for word in res.lower().split() if word not in stopwords.words('english')]
     res = ' '.join (res)
     return res
