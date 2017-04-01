@@ -87,6 +87,7 @@ tag_list = ['part-time-job', 'full-time-job', 'hourly-wage', 'salary', 'associat
 all_documents = []
 all_tags = []
 
+print ('Load train file')
 with open (args.train_file, 'r') as f:
     next(f)
     for line in f:
@@ -100,6 +101,7 @@ with open (args.train_file, 'r') as f:
         content = remove_useless_words(content)
         all_documents.append(content.strip())
 
+print ('Load test file')
 with open (args.test_file, 'r') as f:
     next(f)
     for line in f:
