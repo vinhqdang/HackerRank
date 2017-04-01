@@ -44,7 +44,7 @@ def inverse_document_frequencies(tokenized_documents):
     count = 1
     for tkn in all_tokens_set:
         if count % 100 == 0:
-            print ('token number ' + str(count) + '/' + str(len(all_tokens_set)))
+            print ('(IDF)token number ' + str(count) + '/' + str(len(all_tokens_set)))
         count += 1
         contains_token = map(lambda doc: tkn in doc, tokenized_documents)
         idf_values[tkn] = 1 + math.log(len(tokenized_documents)/(sum(contains_token)))
@@ -59,7 +59,7 @@ def tfidf(documents):
     count = 1
     for document in tokenized_documents:
         if count % 50 == 0:
-            print ('Processing document number ' + str(i) + '/' + str(len(tokenized_documents)))
+            print ('(TFIDF) document number ' + str(i) + '/' + str(len(tokenized_documents)))
         count += 1
         doc_tfidf = []
         for term in idf.keys():
