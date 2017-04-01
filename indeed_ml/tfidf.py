@@ -1,5 +1,6 @@
 import argparse
 import math
+from nltk.corpus import stopwords
 
 def parse_args():
     '''
@@ -70,6 +71,7 @@ def tfidf(documents):
 # heuristic code
 def remove_useless_words (text):
     res = text.replace ('EOE','')
+    res = [word for word in res.lower().split() if word not in stopwords.words('english')]
     return res
 
 tag_list = ['part-time-job', 'full-time-job', 'hourly-wage', 'salary', 'associate-needed',  'bs-degree-needed', 'ms-or-phd-needed', 'licence-needed', \
