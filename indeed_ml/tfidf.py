@@ -43,7 +43,7 @@ def inverse_document_frequencies(tokenized_documents):
     all_tokens_set = set([item for sublist in tokenized_documents for item in sublist])
     count = 1
     for tkn in all_tokens_set:
-        if count % 1000 == 0:
+        if count % 100 == 0:
             print ('token number ' + str(count) + '/' + str(len(all_tokens_set)))
         count += 1
         contains_token = map(lambda doc: tkn in doc, tokenized_documents)
