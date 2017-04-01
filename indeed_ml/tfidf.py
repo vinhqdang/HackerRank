@@ -59,7 +59,7 @@ def tfidf(documents):
     count = 1
     for document in tokenized_documents:
         if count % 50 == 0:
-            print ('(TFIDF) document number ' + str(i) + '/' + str(len(tokenized_documents)))
+            print ('(TFIDF) document number ' + str(count) + '/' + str(len(tokenized_documents)))
         count += 1
         doc_tfidf = []
         for term in idf.keys():
