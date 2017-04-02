@@ -117,12 +117,12 @@ with open (args.test_file, 'r') as f:
 
 tfidfs = tfidf(all_documents)
 
-with open ("tfidfs.txt",'r') as f:
+with open ("tfidfs.txt",'w') as f:
     for tf_idf in tfidfs:
         content = ' '.join(tf_idf)
         f.write (content + '\n')
 
-with open ('tags.txt','r') as f:
+with open ('tags.txt','w') as f:
     f.write (' '.join(tag_list) + '\n')
     for tag in all_tags:
         content = ' '.join (tag)
