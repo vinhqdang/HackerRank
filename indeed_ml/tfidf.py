@@ -23,6 +23,9 @@ def parse_args():
     parser.add_argument('--threshold', type = int, nargs='?', default=500,
                         help='')
 
+    parser.add_argument('--out_file', type = str, nargs='?', default='tags.tsv',
+                        help='')
+
     return parser.parse_args()
 
 args = parse_args()
@@ -155,4 +158,4 @@ np.savetxt (fname = "tfidf_500.txt", X =a[:, (a != 0).sum(axis=0) >= args.thresh
 #process R File
 os.system ("Rscript job_tags.R")
 
-os.system ("python to_submission.py")
+os.system ("python to_submission.py --out_file=" + args.out_file)
