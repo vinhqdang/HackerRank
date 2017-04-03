@@ -1,6 +1,12 @@
 import argparse
 import math
 from nltk.corpus import stopwords
+import numpy as np
+from nltk.stem.wordnet import WordNetLemmatizer
+import nltk
+import sys
+import os
+import string
 
 def parse_args():
     '''
@@ -14,11 +20,16 @@ def parse_args():
     parser.add_argument('--test_file', nargs='?', default='indeed_ml_dataset/test.tsv',
                         help='')
 
+    parser.add_argument('--threshold', type = int, nargs='?', default=500,
+                        help='')
+
     return parser.parse_args()
 
 args = parse_args()
 
 tokenize = lambda doc: doc.lower().split(" ")
+
+lmtzr = WordNetLemmatizer()
 
 def jaccard_similarity(query, document):
     intersection = set(query).intersection(set(document))
@@ -76,8 +87,10 @@ def strip_non_ascii(string):
 # 
 def remove_useless_words (text):
     res = text.replace ('EOE','')
+    res = res.lower()
+    res = res.translate(None, string.punctuation)
     res = strip_non_ascii (res)
-    res = [word for word in res.lower().split() if word not in stopwords.words('english')]
+    res = [lmtzr.lemmatize (word) for word in nltk.word_tokenize (res) if word not in stopwords.words('english')]
     res = ' '.join (res)
     return res
 
@@ -89,10 +102,13 @@ all_tags = []
 
 print ('Load train file')
 with open (args.train_file, 'r') as f:
-    next(f)
-    count = 1
+    count = 0
     for line in f:
-        print ('Load line ' + str (count) + ' of train file')
+        if count == 0:
+            count += 1
+            continue
+        if count % 500 == 0:
+            print ('Load line ' + str (count) + ' of train file')
         count += 1
         raw_tags, content = line.split ('\t')
         tags = raw_tags.split()
@@ -106,10 +122,13 @@ with open (args.train_file, 'r') as f:
 
 print ('Load test file')
 with open (args.test_file, 'r') as f:
-    next(f)
     count = 0
     for line in f:
-        print ('Load line ' + str (count) + ' of train file')
+        if count == 0:
+            count += 1
+            continue
+        if count % 500 == 0:
+            print ('Load line ' + str (count) + ' of test file')
         count += 1
         content = line.strip()
         content = remove_useless_words(content)
@@ -117,13 +136,23 @@ with open (args.test_file, 'r') as f:
 
 tfidfs = tfidf(all_documents)
 
-with open ("tfidfs.txt",'w') as f:
-    for tf_idf in tfidfs:
-        content = ' '.join(tf_idf)
-        f.write (content + '\n')
+# with open ("tfidfs.txt",'w') as f:
+#     for tf_idf in tfidfs:
+#         content = map (str, tf_idf)
+#         content = ' '.join(content)
+#         f.write (content + '\n')
 
 with open ('tags.txt','w') as f:
     f.write (' '.join(tag_list) + '\n')
     for tag in all_tags:
-        content = ' '.join (tag)
+        content = map (str, tag)
+        content = ' '.join (content)
         f.write (content + '\n')
+
+a = np.array (tfidfs)
+np.savetxt (fname = "tfidf_500.txt", X =a[:, (a != 0).sum(axis=0) >= args.threshold])
+
+#process R File
+os.system ("Rscript job_tags.R")
+
+os.system ("python to_submission.py")
