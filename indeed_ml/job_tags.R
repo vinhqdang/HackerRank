@@ -48,7 +48,7 @@ for (i in 1:12) {
                        grid_id = "gbm_grid_binomial",
                        x = x,
                        y = y,
-                       training_frame = train,
+                       training_frame = h_train,
                        ntrees = 100,
                        seed = 1,
                        nfolds = nfolds,
