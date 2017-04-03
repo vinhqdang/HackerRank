@@ -149,7 +149,8 @@ for (i in 1:12) {
   pre_d2 <- h2o.predict(d2, newdata = h_test)
 
   d3 <- h2o.deeplearning(x=1:(ncol(new_df)-1),y=ncol(new_df),training_frame =  h_train,
-                          hidden = c(64,64,64))
+                          hidden = c(64,64,64), activation = "RectifierWithDropout",
+                         hidden_dropout_ratios = c(0.5,0.5,0.5))
 
   pre_d3 <- h2o.predict(d3, newdata = h_test)
 
