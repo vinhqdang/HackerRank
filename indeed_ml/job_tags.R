@@ -25,7 +25,7 @@ for (i in 1:12) {
   
   nfolds <- 5
   
-  GBM Hyperparamters
+  # GBM Hyperparamters
   learn_rate_opt <- c(0.01, 0.03)
   max_depth_opt <- c(3, 4, 5, 6, 9)
   sample_rate_opt <- c(0.7, 0.8, 0.9, 1.0)
