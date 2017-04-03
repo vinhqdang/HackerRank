@@ -1,36 +1,36 @@
 tags
-hourly-wage licence-needed 1-year-experience-needed
-hourly-wage
+hourly-wage licence-needed
+part-time-job hourly-wage
 part-time-job 2-4-years-experience-needed
 2-4-years-experience-needed
-full-time-job salary 2-4-years-experience-needed
+salary 2-4-years-experience-needed
 
 
 bs-degree-needed
 bs-degree-needed 2-4-years-experience-needed
 
 full-time-job
-full-time-job licence-needed
+
 1-year-experience-needed
 2-4-years-experience-needed
-salary associate-needed bs-degree-needed 2-4-years-experience-needed
+associate-needed bs-degree-needed 2-4-years-experience-needed
 
-full-time-job 2-4-years-experience-needed supervising-job
+full-time-job 2-4-years-experience-needed
 licence-needed 2-4-years-experience-needed
 full-time-job licence-needed 2-4-years-experience-needed
-full-time-job hourly-wage
+full-time-job
 licence-needed supervising-job
 full-time-job licence-needed 2-4-years-experience-needed
-salary associate-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+salary associate-needed 2-4-years-experience-needed
 licence-needed 2-4-years-experience-needed
 full-time-job
 associate-needed 1-year-experience-needed
 full-time-job salary bs-degree-needed 2-4-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-licence-needed
-salary supervising-job
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+
+full-time-job salary supervising-job
 full-time-job
-licence-needed
+
 2-4-years-experience-needed
 full-time-job 5-plus-years-experience-needed
 
@@ -43,7 +43,7 @@ full-time-job hourly-wage
 licence-needed
 full-time-job salary
 full-time-job 2-4-years-experience-needed
-full-time-job 2-4-years-experience-needed
+full-time-job hourly-wage 2-4-years-experience-needed
 
 2-4-years-experience-needed
 
@@ -51,7 +51,7 @@ full-time-job salary 5-plus-years-experience-needed
 full-time-job salary
 bs-degree-needed
 licence-needed
-2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed
 ms-or-phd-needed 2-4-years-experience-needed
 
 full-time-job
@@ -62,8 +62,8 @@ salary
 bs-degree-needed supervising-job
 licence-needed
 
-full-time-job licence-needed
 full-time-job
+
 licence-needed 2-4-years-experience-needed
 part-time-job
 
@@ -73,8 +73,8 @@ bs-degree-needed 5-plus-years-experience-needed supervising-job
 salary supervising-job
 hourly-wage 2-4-years-experience-needed
 full-time-job bs-degree-needed 2-4-years-experience-needed
-full-time-job hourly-wage salary 2-4-years-experience-needed 5-plus-years-experience-needed
-associate-needed bs-degree-needed 2-4-years-experience-needed
+full-time-job hourly-wage 2-4-years-experience-needed 5-plus-years-experience-needed
+associate-needed bs-degree-needed
 part-time-job
 licence-needed
 licence-needed
@@ -84,67 +84,67 @@ licence-needed 2-4-years-experience-needed
 2-4-years-experience-needed
 2-4-years-experience-needed
 full-time-job
-full-time-job salary 2-4-years-experience-needed
-full-time-job salary bs-degree-needed 2-4-years-experience-needed supervising-job
+full-time-job salary licence-needed 2-4-years-experience-needed
+salary bs-degree-needed 2-4-years-experience-needed supervising-job
 
 1-year-experience-needed
-part-time-job
+part-time-job hourly-wage
 bs-degree-needed 2-4-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed
 full-time-job bs-degree-needed 2-4-years-experience-needed
 2-4-years-experience-needed
-bs-degree-needed
+bs-degree-needed 2-4-years-experience-needed
 
 
-full-time-job hourly-wage
+full-time-job
 hourly-wage
 
 bs-degree-needed 2-4-years-experience-needed
 part-time-job
-full-time-job licence-needed
-full-time-job
+part-time-job full-time-job licence-needed
+full-time-job hourly-wage
 
 salary
 
 associate-needed bs-degree-needed 2-4-years-experience-needed
 salary
 full-time-job 2-4-years-experience-needed
-bs-degree-needed 5-plus-years-experience-needed supervising-job
+salary bs-degree-needed 5-plus-years-experience-needed supervising-job
 full-time-job licence-needed
-2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-salary bs-degree-needed 2-4-years-experience-needed
+2-4-years-experience-needed
 salary 2-4-years-experience-needed
+salary
 
 2-4-years-experience-needed
 
-bs-degree-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 5-plus-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 
-salary 2-4-years-experience-needed
-
+salary
+full-time-job
 full-time-job salary 2-4-years-experience-needed
 
-part-time-job
+
 
 part-time-job hourly-wage
 
 full-time-job bs-degree-needed 2-4-years-experience-needed
 full-time-job bs-degree-needed
 bs-degree-needed
-licence-needed 5-plus-years-experience-needed
+licence-needed 5-plus-years-experience-needed supervising-job
 
 
 bs-degree-needed 5-plus-years-experience-needed
 bs-degree-needed
-2-4-years-experience-needed 5-plus-years-experience-needed
+bs-degree-needed 5-plus-years-experience-needed
+salary supervising-job
 supervising-job
-supervising-job
-full-time-job licence-needed
+full-time-job salary
 
 salary
 
 full-time-job 2-4-years-experience-needed
-5-plus-years-experience-needed supervising-job
+supervising-job
 bs-degree-needed 5-plus-years-experience-needed supervising-job
 licence-needed
 
@@ -155,29 +155,29 @@ salary bs-degree-needed 5-plus-years-experience-needed supervising-job
 
 
 associate-needed bs-degree-needed 2-4-years-experience-needed
-full-time-job hourly-wage salary bs-degree-needed 2-4-years-experience-needed
-licence-needed
+hourly-wage salary 2-4-years-experience-needed
+salary licence-needed
 salary 2-4-years-experience-needed
 2-4-years-experience-needed 5-plus-years-experience-needed
 
 
 licence-needed
-
-5-plus-years-experience-needed
+part-time-job
+2-4-years-experience-needed 5-plus-years-experience-needed
 
 hourly-wage
 licence-needed
 hourly-wage
 
 part-time-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 full-time-job
 full-time-job hourly-wage
 
 full-time-job salary bs-degree-needed 2-4-years-experience-needed supervising-job
-1-year-experience-needed
-bs-degree-needed
+1-year-experience-needed 2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed supervising-job
 full-time-job bs-degree-needed
 full-time-job 2-4-years-experience-needed supervising-job
@@ -188,58 +188,58 @@ bs-degree-needed
 part-time-job hourly-wage licence-needed 1-year-experience-needed
 2-4-years-experience-needed
 2-4-years-experience-needed
-full-time-job hourly-wage 2-4-years-experience-needed
+hourly-wage 2-4-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
 2-4-years-experience-needed supervising-job
 full-time-job 2-4-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed supervising-job
-hourly-wage licence-needed 1-year-experience-needed 2-4-years-experience-needed supervising-job
+hourly-wage licence-needed 1-year-experience-needed
 hourly-wage 5-plus-years-experience-needed
 full-time-job salary 2-4-years-experience-needed
 salary
 hourly-wage
-part-time-job licence-needed
-full-time-job 2-4-years-experience-needed supervising-job
+licence-needed
+full-time-job 2-4-years-experience-needed
 associate-needed 2-4-years-experience-needed
 full-time-job salary bs-degree-needed 2-4-years-experience-needed
 licence-needed
 full-time-job salary 2-4-years-experience-needed
 full-time-job salary bs-degree-needed 2-4-years-experience-needed supervising-job
-full-time-job
-bs-degree-needed 2-4-years-experience-needed supervising-job
-associate-needed licence-needed 2-4-years-experience-needed
+
+bs-degree-needed 2-4-years-experience-needed
+associate-needed licence-needed 1-year-experience-needed 2-4-years-experience-needed
 2-4-years-experience-needed
 full-time-job associate-needed
-bs-degree-needed 2-4-years-experience-needed
+salary bs-degree-needed 2-4-years-experience-needed
 
 bs-degree-needed 2-4-years-experience-needed supervising-job
 
-full-time-job
+
 5-plus-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed
 
-part-time-job full-time-job licence-needed
+part-time-job full-time-job hourly-wage licence-needed
 licence-needed 2-4-years-experience-needed
 licence-needed 2-4-years-experience-needed supervising-job
-full-time-job salary 2-4-years-experience-needed
+full-time-job salary bs-degree-needed 2-4-years-experience-needed
 
 
 salary bs-degree-needed 5-plus-years-experience-needed supervising-job
-salary bs-degree-needed 5-plus-years-experience-needed
-part-time-job associate-needed bs-degree-needed
-salary bs-degree-needed 1-year-experience-needed
-full-time-job supervising-job
-part-time-job full-time-job hourly-wage
+bs-degree-needed 5-plus-years-experience-needed
+part-time-job full-time-job bs-degree-needed
+salary bs-degree-needed
+full-time-job
+part-time-job hourly-wage
 
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
-2-4-years-experience-needed
+
 2-4-years-experience-needed
 licence-needed
 bs-degree-needed 1-year-experience-needed
 full-time-job
-licence-needed
+
 part-time-job full-time-job hourly-wage
 
 bs-degree-needed 5-plus-years-experience-needed
@@ -250,30 +250,30 @@ bs-degree-needed
 part-time-job hourly-wage 2-4-years-experience-needed
 hourly-wage 1-year-experience-needed
 salary bs-degree-needed
-full-time-job 2-4-years-experience-needed 5-plus-years-experience-needed
+full-time-job bs-degree-needed 5-plus-years-experience-needed
 
 
 5-plus-years-experience-needed
-licence-needed supervising-job
-1-year-experience-needed 2-4-years-experience-needed
-part-time-job
+licence-needed
+2-4-years-experience-needed
+part-time-job hourly-wage
 hourly-wage
 supervising-job
 hourly-wage
 licence-needed
-part-time-job hourly-wage salary
+part-time-job hourly-wage
 
-bs-degree-needed 2-4-years-experience-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
 bs-degree-needed 5-plus-years-experience-needed
 
-part-time-job hourly-wage
+hourly-wage
 bs-degree-needed 2-4-years-experience-needed supervising-job
 1-year-experience-needed 2-4-years-experience-needed
 licence-needed 2-4-years-experience-needed
 
 part-time-job full-time-job licence-needed 1-year-experience-needed
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+bs-degree-needed 5-plus-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed
 full-time-job salary bs-degree-needed
 full-time-job
@@ -281,19 +281,19 @@ salary
 licence-needed
 part-time-job hourly-wage
 bs-degree-needed 5-plus-years-experience-needed supervising-job
-part-time-job hourly-wage licence-needed 2-4-years-experience-needed
-
-full-time-job salary 2-4-years-experience-needed supervising-job
+part-time-job hourly-wage licence-needed
+full-time-job
+full-time-job 2-4-years-experience-needed
 part-time-job full-time-job
 salary bs-degree-needed supervising-job
-salary 2-4-years-experience-needed supervising-job
+salary 2-4-years-experience-needed
 salary bs-degree-needed 5-plus-years-experience-needed supervising-job
 bs-degree-needed
 hourly-wage
-bs-degree-needed 2-4-years-experience-needed supervising-job
-full-time-job salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed supervising-job
+full-time-job salary bs-degree-needed 2-4-years-experience-needed supervising-job
 full-time-job hourly-wage
-bs-degree-needed
+full-time-job salary bs-degree-needed
 
 bs-degree-needed 5-plus-years-experience-needed
 
@@ -310,8 +310,8 @@ full-time-job licence-needed
 5-plus-years-experience-needed supervising-job
 
 full-time-job
-full-time-job salary bs-degree-needed 5-plus-years-experience-needed supervising-job
-
+full-time-job salary bs-degree-needed 5-plus-years-experience-needed
+licence-needed
 bs-degree-needed 5-plus-years-experience-needed
 
 
@@ -322,18 +322,18 @@ part-time-job hourly-wage supervising-job
 licence-needed
 part-time-job licence-needed 2-4-years-experience-needed
 part-time-job full-time-job hourly-wage bs-degree-needed 2-4-years-experience-needed supervising-job
-licence-needed 1-year-experience-needed
+licence-needed
 salary bs-degree-needed
-full-time-job hourly-wage
-2-4-years-experience-needed supervising-job
+
 supervising-job
-full-time-job
 supervising-job
 
+supervising-job
+licence-needed
 licence-needed
 part-time-job hourly-wage
 
-5-plus-years-experience-needed
+full-time-job 5-plus-years-experience-needed supervising-job
 hourly-wage
 supervising-job
 
@@ -343,26 +343,26 @@ bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supe
 
 full-time-job hourly-wage 2-4-years-experience-needed
 bs-degree-needed
-
-salary bs-degree-needed 5-plus-years-experience-needed
+licence-needed
+salary
 
 hourly-wage 2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
+bs-degree-needed supervising-job
 
 
 bs-degree-needed 2-4-years-experience-needed supervising-job
 bs-degree-needed 5-plus-years-experience-needed
 supervising-job
-full-time-job 2-4-years-experience-needed supervising-job
+2-4-years-experience-needed supervising-job
 supervising-job
 licence-needed
 
 full-time-job
-hourly-wage
-5-plus-years-experience-needed supervising-job
+
+bs-degree-needed 5-plus-years-experience-needed supervising-job
 
 full-time-job licence-needed
-full-time-job hourly-wage
+part-time-job hourly-wage
 bs-degree-needed 2-4-years-experience-needed
 full-time-job bs-degree-needed 5-plus-years-experience-needed supervising-job
 licence-needed
@@ -371,20 +371,20 @@ bs-degree-needed
 
 hourly-wage
 5-plus-years-experience-needed
-licence-needed
+
 salary supervising-job
-5-plus-years-experience-needed
+bs-degree-needed 5-plus-years-experience-needed
 licence-needed 1-year-experience-needed 2-4-years-experience-needed
 
 part-time-job bs-degree-needed
-full-time-job 1-year-experience-needed
+full-time-job
 2-4-years-experience-needed
 full-time-job
 2-4-years-experience-needed supervising-job
+hourly-wage
+2-4-years-experience-needed supervising-job
 2-4-years-experience-needed
-full-time-job 2-4-years-experience-needed supervising-job
-2-4-years-experience-needed
-
+bs-degree-needed
 
 bs-degree-needed 5-plus-years-experience-needed
 
@@ -392,26 +392,26 @@ salary bs-degree-needed
 full-time-job hourly-wage 2-4-years-experience-needed
 
 
-full-time-job associate-needed 1-year-experience-needed
-full-time-job 2-4-years-experience-needed
+associate-needed 1-year-experience-needed
+bs-degree-needed 2-4-years-experience-needed
 hourly-wage
 
-licence-needed 1-year-experience-needed
-hourly-wage
+1-year-experience-needed
+
 licence-needed
 5-plus-years-experience-needed supervising-job
-full-time-job salary licence-needed
-salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+full-time-job salary
+salary bs-degree-needed
 
 associate-needed
-full-time-job associate-needed 1-year-experience-needed 2-4-years-experience-needed supervising-job
+full-time-job associate-needed bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed supervising-job
 part-time-job 2-4-years-experience-needed
 
 full-time-job hourly-wage licence-needed 2-4-years-experience-needed
 full-time-job 2-4-years-experience-needed supervising-job
-hourly-wage salary
-2-4-years-experience-needed supervising-job
-5-plus-years-experience-needed
+salary
+2-4-years-experience-needed
+full-time-job 5-plus-years-experience-needed
 supervising-job
 2-4-years-experience-needed
 bs-degree-needed
@@ -425,17 +425,17 @@ licence-needed
 bs-degree-needed
 full-time-job bs-degree-needed 5-plus-years-experience-needed
 
-salary 1-year-experience-needed 2-4-years-experience-needed 5-plus-years-experience-needed
-full-time-job salary 2-4-years-experience-needed supervising-job
+salary 2-4-years-experience-needed 5-plus-years-experience-needed
+full-time-job salary 2-4-years-experience-needed
 full-time-job ms-or-phd-needed licence-needed
 5-plus-years-experience-needed
 full-time-job 1-year-experience-needed
 
 salary 2-4-years-experience-needed
 
-full-time-job salary licence-needed
+full-time-job salary
 bs-degree-needed 2-4-years-experience-needed
-2-4-years-experience-needed
+5-plus-years-experience-needed
 salary 1-year-experience-needed
 
 salary
@@ -443,54 +443,54 @@ salary
 2-4-years-experience-needed
 salary
 bs-degree-needed
-associate-needed bs-degree-needed 2-4-years-experience-needed
-full-time-job 2-4-years-experience-needed
+2-4-years-experience-needed
+full-time-job 2-4-years-experience-needed supervising-job
 full-time-job salary bs-degree-needed 2-4-years-experience-needed supervising-job
 full-time-job bs-degree-needed 5-plus-years-experience-needed
-bs-degree-needed supervising-job
+bs-degree-needed
 salary
 
-full-time-job 5-plus-years-experience-needed supervising-job
-hourly-wage 2-4-years-experience-needed
+full-time-job 5-plus-years-experience-needed
+full-time-job hourly-wage 2-4-years-experience-needed
 salary 2-4-years-experience-needed
-salary bs-degree-needed 2-4-years-experience-needed
+salary 2-4-years-experience-needed
 full-time-job salary licence-needed
 
-salary bs-degree-needed 2-4-years-experience-needed supervising-job
+salary 2-4-years-experience-needed supervising-job
 full-time-job hourly-wage
 hourly-wage
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed supervising-job
 licence-needed 2-4-years-experience-needed
 
 hourly-wage
 hourly-wage 1-year-experience-needed
 
 2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed 1-year-experience-needed
+bs-degree-needed 2-4-years-experience-needed supervising-job
+
+
+
 bs-degree-needed 2-4-years-experience-needed supervising-job
 bs-degree-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
 
-
-bs-degree-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
-salary bs-degree-needed
-
-hourly-wage 2-4-years-experience-needed
+part-time-job hourly-wage 2-4-years-experience-needed
 full-time-job hourly-wage 2-4-years-experience-needed
-supervising-job
+
 full-time-job 2-4-years-experience-needed
 
 
 part-time-job
 part-time-job licence-needed
 bs-degree-needed supervising-job
-licence-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+2-4-years-experience-needed 5-plus-years-experience-needed
 bs-degree-needed supervising-job
-
+supervising-job
 
 full-time-job salary 2-4-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed
-full-time-job hourly-wage
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+full-time-job
 
 
 licence-needed 2-4-years-experience-needed
@@ -499,24 +499,24 @@ full-time-job salary bs-degree-needed 5-plus-years-experience-needed supervising
 
 2-4-years-experience-needed
 2-4-years-experience-needed supervising-job
-supervising-job
-part-time-job hourly-wage salary
+
+hourly-wage salary
 5-plus-years-experience-needed
 salary associate-needed bs-degree-needed 2-4-years-experience-needed
 full-time-job salary 2-4-years-experience-needed supervising-job
 licence-needed
-licence-needed
+
 bs-degree-needed 5-plus-years-experience-needed
 
 5-plus-years-experience-needed supervising-job
 salary associate-needed supervising-job
 hourly-wage 2-4-years-experience-needed
-full-time-job hourly-wage
+full-time-job
 part-time-job hourly-wage 1-year-experience-needed
 full-time-job salary
 
 hourly-wage
-full-time-job salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 full-time-job 1-year-experience-needed 2-4-years-experience-needed supervising-job
 2-4-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed
@@ -529,11 +529,11 @@ full-time-job hourly-wage salary
 
 associate-needed 2-4-years-experience-needed
 full-time-job bs-degree-needed 2-4-years-experience-needed supervising-job
-full-time-job hourly-wage associate-needed 2-4-years-experience-needed
+full-time-job hourly-wage associate-needed bs-degree-needed 2-4-years-experience-needed
 full-time-job 2-4-years-experience-needed
-part-time-job hourly-wage
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
-full-time-job salary supervising-job
+part-time-job full-time-job hourly-wage
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+salary supervising-job
 
 salary supervising-job
 
@@ -548,7 +548,7 @@ full-time-job
 bs-degree-needed 2-4-years-experience-needed
 part-time-job hourly-wage licence-needed
 bs-degree-needed 2-4-years-experience-needed
-bs-degree-needed supervising-job
+bs-degree-needed
 part-time-job full-time-job hourly-wage
 hourly-wage
 salary
@@ -559,22 +559,22 @@ full-time-job licence-needed
 salary
 full-time-job licence-needed 2-4-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed
-hourly-wage licence-needed
-bs-degree-needed 5-plus-years-experience-needed supervising-job
+licence-needed
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
-bs-degree-needed 2-4-years-experience-needed
+hourly-wage bs-degree-needed 2-4-years-experience-needed
 full-time-job licence-needed 1-year-experience-needed 2-4-years-experience-needed
 
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 salary 2-4-years-experience-needed
 full-time-job salary 5-plus-years-experience-needed supervising-job
-part-time-job licence-needed
-hourly-wage 1-year-experience-needed 2-4-years-experience-needed
+part-time-job licence-needed 2-4-years-experience-needed
+
 full-time-job licence-needed
 bs-degree-needed
 2-4-years-experience-needed supervising-job
 
-part-time-job full-time-job hourly-wage
+part-time-job hourly-wage
 
 full-time-job hourly-wage
 
@@ -585,7 +585,7 @@ part-time-job hourly-wage salary
 
 
 salary 5-plus-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed
 licence-needed 2-4-years-experience-needed
 part-time-job hourly-wage
 
@@ -593,32 +593,32 @@ part-time-job hourly-wage
 full-time-job hourly-wage salary 5-plus-years-experience-needed supervising-job
 full-time-job salary
 part-time-job licence-needed
-supervising-job
-2-4-years-experience-needed
+1-year-experience-needed supervising-job
+2-4-years-experience-needed 5-plus-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed supervising-job
 full-time-job licence-needed
 
-bs-degree-needed 5-plus-years-experience-needed supervising-job
+licence-needed 5-plus-years-experience-needed supervising-job
 bs-degree-needed
 associate-needed 2-4-years-experience-needed
 hourly-wage
-licence-needed
+
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 full-time-job 5-plus-years-experience-needed
 salary 2-4-years-experience-needed
 
-associate-needed supervising-job
+supervising-job
 
 hourly-wage 2-4-years-experience-needed
 
 
 
-salary
-1-year-experience-needed
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+salary bs-degree-needed
+bs-degree-needed 1-year-experience-needed
+full-time-job salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed supervising-job
-part-time-job hourly-wage licence-needed
+hourly-wage licence-needed
 salary
 salary bs-degree-needed 5-plus-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed
@@ -628,7 +628,7 @@ part-time-job hourly-wage
 2-4-years-experience-needed
 part-time-job hourly-wage licence-needed
 
-full-time-job salary bs-degree-needed 2-4-years-experience-needed
+full-time-job hourly-wage salary bs-degree-needed 2-4-years-experience-needed
 hourly-wage
 2-4-years-experience-needed
 full-time-job
@@ -636,33 +636,33 @@ full-time-job salary licence-needed 2-4-years-experience-needed
 
 hourly-wage
 
-bs-degree-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed supervising-job
 
 
 
 bs-degree-needed 2-4-years-experience-needed supervising-job
 2-4-years-experience-needed
-
+bs-degree-needed
 full-time-job licence-needed
 salary
 
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 
-part-time-job hourly-wage licence-needed
+part-time-job hourly-wage
 2-4-years-experience-needed
 hourly-wage bs-degree-needed
 part-time-job hourly-wage
 
-salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-5-plus-years-experience-needed
-salary
-salary bs-degree-needed 2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed
-salary bs-degree-needed 2-4-years-experience-needed supervising-job
+salary bs-degree-needed 5-plus-years-experience-needed supervising-job
 5-plus-years-experience-needed supervising-job
-
+salary
+bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed
+salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+5-plus-years-experience-needed supervising-job
+part-time-job
 full-time-job salary 2-4-years-experience-needed
-salary bs-degree-needed 2-4-years-experience-needed
+salary bs-degree-needed
 hourly-wage 1-year-experience-needed
 bs-degree-needed 2-4-years-experience-needed
 
@@ -670,29 +670,29 @@ salary bs-degree-needed 2-4-years-experience-needed supervising-job
 
 part-time-job
 
-bs-degree-needed 1-year-experience-needed
-full-time-job bs-degree-needed 5-plus-years-experience-needed supervising-job
+1-year-experience-needed
+full-time-job bs-degree-needed supervising-job
 salary licence-needed
 
 bs-degree-needed 2-4-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed supervising-job
-5-plus-years-experience-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 5-plus-years-experience-needed supervising-job
 
 
 5-plus-years-experience-needed
 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed supervising-job
+bs-degree-needed 5-plus-years-experience-needed supervising-job
+full-time-job bs-degree-needed 2-4-years-experience-needed supervising-job
 
 full-time-job licence-needed 2-4-years-experience-needed
 
 licence-needed
 licence-needed
-full-time-job
-salary
-bs-degree-needed 2-4-years-experience-needed
 full-time-job hourly-wage
-licence-needed 2-4-years-experience-needed
+salary
+associate-needed bs-degree-needed 2-4-years-experience-needed
+full-time-job hourly-wage
+licence-needed 1-year-experience-needed 2-4-years-experience-needed
 full-time-job 5-plus-years-experience-needed
 full-time-job bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
@@ -703,7 +703,7 @@ part-time-job licence-needed
 1-year-experience-needed
 5-plus-years-experience-needed
 
-part-time-job full-time-job hourly-wage licence-needed
+part-time-job hourly-wage licence-needed
 full-time-job hourly-wage licence-needed
 
 
@@ -714,42 +714,42 @@ licence-needed
 part-time-job hourly-wage
 salary associate-needed
 full-time-job associate-needed 2-4-years-experience-needed supervising-job
-licence-needed supervising-job
+supervising-job
 part-time-job hourly-wage licence-needed
 full-time-job
 supervising-job
-salary bs-degree-needed 5-plus-years-experience-needed supervising-job
+salary bs-degree-needed 5-plus-years-experience-needed
 2-4-years-experience-needed
 
-bs-degree-needed 5-plus-years-experience-needed
-5-plus-years-experience-needed supervising-job
+bs-degree-needed 5-plus-years-experience-needed supervising-job
+supervising-job
 bs-degree-needed 2-4-years-experience-needed supervising-job
 
 
 
 full-time-job
-licence-needed 2-4-years-experience-needed
+ms-or-phd-needed licence-needed 2-4-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed
-full-time-job hourly-wage licence-needed 2-4-years-experience-needed
+hourly-wage licence-needed 2-4-years-experience-needed
 full-time-job licence-needed
 
 licence-needed
 salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 part-time-job hourly-wage
 licence-needed
-full-time-job salary supervising-job
-full-time-job hourly-wage licence-needed 2-4-years-experience-needed
+full-time-job supervising-job
+part-time-job full-time-job hourly-wage licence-needed 2-4-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed supervising-job
 bs-degree-needed 5-plus-years-experience-needed
 2-4-years-experience-needed
 bs-degree-needed ms-or-phd-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 bs-degree-needed
-full-time-job
+full-time-job hourly-wage
 salary
 salary associate-needed bs-degree-needed 5-plus-years-experience-needed
 licence-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
-part-time-job full-time-job
+bs-degree-needed 5-plus-years-experience-needed supervising-job
+part-time-job full-time-job licence-needed
 2-4-years-experience-needed
 
 salary
@@ -767,7 +767,7 @@ full-time-job salary 2-4-years-experience-needed
 full-time-job
 1-year-experience-needed
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-
+licence-needed
 
 
 bs-degree-needed 2-4-years-experience-needed supervising-job
@@ -777,9 +777,9 @@ salary bs-degree-needed 5-plus-years-experience-needed
 2-4-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed
 
-
+licence-needed
 full-time-job salary
-
+2-4-years-experience-needed
 part-time-job
 full-time-job salary bs-degree-needed
 licence-needed
@@ -803,19 +803,19 @@ full-time-job hourly-wage 2-4-years-experience-needed
 full-time-job hourly-wage
 full-time-job
 associate-needed
-licence-needed
 
-full-time-job hourly-wage
+
+hourly-wage
 full-time-job
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-bs-degree-needed
+bs-degree-needed supervising-job
 licence-needed
 
 5-plus-years-experience-needed
-licence-needed
+
 
 2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
+salary bs-degree-needed 2-4-years-experience-needed supervising-job
 
 
 licence-needed supervising-job
@@ -830,16 +830,16 @@ bs-degree-needed
 bs-degree-needed 2-4-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed
 2-4-years-experience-needed
-full-time-job bs-degree-needed
-bs-degree-needed 5-plus-years-experience-needed
+full-time-job
+bs-degree-needed 5-plus-years-experience-needed supervising-job
 full-time-job hourly-wage salary
-full-time-job salary bs-degree-needed
+full-time-job salary bs-degree-needed supervising-job
 salary
-full-time-job 2-4-years-experience-needed
+full-time-job salary 2-4-years-experience-needed
 salary bs-degree-needed 2-4-years-experience-needed supervising-job
 
 salary bs-degree-needed 5-plus-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed
+full-time-job bs-degree-needed
 full-time-job bs-degree-needed 2-4-years-experience-needed
 1-year-experience-needed
 
@@ -849,24 +849,24 @@ licence-needed
 
 2-4-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed supervising-job
-
+supervising-job
 
 
 full-time-job salary associate-needed bs-degree-needed 5-plus-years-experience-needed
 full-time-job
-ms-or-phd-needed 1-year-experience-needed 2-4-years-experience-needed
+associate-needed bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed
 hourly-wage
 hourly-wage
 bs-degree-needed
-bs-degree-needed 2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-salary licence-needed supervising-job
 2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+salary
+salary 2-4-years-experience-needed
 full-time-job salary 2-4-years-experience-needed
 
 
-associate-needed 2-4-years-experience-needed supervising-job
+2-4-years-experience-needed supervising-job
 part-time-job hourly-wage
 supervising-job
 full-time-job salary licence-needed 2-4-years-experience-needed
@@ -874,84 +874,84 @@ full-time-job salary
 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 salary
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-hourly-wage licence-needed 1-year-experience-needed 2-4-years-experience-needed
+licence-needed 1-year-experience-needed 2-4-years-experience-needed
 associate-needed bs-degree-needed 2-4-years-experience-needed
 full-time-job licence-needed
-full-time-job salary licence-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+full-time-job salary 2-4-years-experience-needed
 
 5-plus-years-experience-needed
-bs-degree-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed supervising-job
 
 
-full-time-job salary
+salary
 bs-degree-needed
 bs-degree-needed
 licence-needed
-bs-degree-needed 2-4-years-experience-needed
+2-4-years-experience-needed
 full-time-job licence-needed 5-plus-years-experience-needed
 1-year-experience-needed
-2-4-years-experience-needed supervising-job
+associate-needed 2-4-years-experience-needed
 5-plus-years-experience-needed
-associate-needed
+
 
 
 part-time-job full-time-job 2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
+full-time-job bs-degree-needed 2-4-years-experience-needed supervising-job
 
 part-time-job
 bs-degree-needed 2-4-years-experience-needed supervising-job
 full-time-job salary bs-degree-needed 2-4-years-experience-needed
-salary 1-year-experience-needed 5-plus-years-experience-needed
+salary 5-plus-years-experience-needed
 full-time-job salary
 licence-needed supervising-job
 bs-degree-needed supervising-job
-hourly-wage
+
 2-4-years-experience-needed
 
 5-plus-years-experience-needed
 part-time-job
 
-2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed
 
-full-time-job licence-needed
+licence-needed
 bs-degree-needed 5-plus-years-experience-needed supervising-job
 hourly-wage
 hourly-wage
 bs-degree-needed 2-4-years-experience-needed
 
 full-time-job
-
+part-time-job
 licence-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
-2-4-years-experience-needed
+bs-degree-needed supervising-job
 
-2-4-years-experience-needed supervising-job
+
+part-time-job 2-4-years-experience-needed supervising-job
 supervising-job
 supervising-job
 full-time-job bs-degree-needed 2-4-years-experience-needed supervising-job
 salary 2-4-years-experience-needed
-hourly-wage
+full-time-job hourly-wage
 
-associate-needed 2-4-years-experience-needed supervising-job
+2-4-years-experience-needed supervising-job
 2-4-years-experience-needed supervising-job
 2-4-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
 licence-needed
 full-time-job hourly-wage 2-4-years-experience-needed
-full-time-job bs-degree-needed 1-year-experience-needed 5-plus-years-experience-needed
+full-time-job bs-degree-needed 5-plus-years-experience-needed
 associate-needed
 salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
 hourly-wage
 associate-needed 2-4-years-experience-needed
 salary bs-degree-needed 5-plus-years-experience-needed supervising-job
-associate-needed 2-4-years-experience-needed
+2-4-years-experience-needed
 5-plus-years-experience-needed supervising-job
 licence-needed
-2-4-years-experience-needed 5-plus-years-experience-needed
+licence-needed 2-4-years-experience-needed
 hourly-wage 1-year-experience-needed
-bs-degree-needed 2-4-years-experience-needed
+full-time-job bs-degree-needed 2-4-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed
 full-time-job salary 2-4-years-experience-needed supervising-job
 2-4-years-experience-needed
@@ -959,21 +959,21 @@ full-time-job 2-4-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed supervising-job
 
 5-plus-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed
+salary bs-degree-needed 2-4-years-experience-needed
 2-4-years-experience-needed
 2-4-years-experience-needed
 salary 2-4-years-experience-needed
 full-time-job
-full-time-job
-full-time-job salary
-salary 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+part-time-job
+full-time-job hourly-wage
+5-plus-years-experience-needed supervising-job
 
 
 salary supervising-job
-salary associate-needed bs-degree-needed 2-4-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+salary associate-needed bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed
-bs-degree-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 5-plus-years-experience-needed
 part-time-job hourly-wage bs-degree-needed 2-4-years-experience-needed
 
 bs-degree-needed 2-4-years-experience-needed supervising-job
@@ -981,15 +981,15 @@ bs-degree-needed 2-4-years-experience-needed supervising-job
 bs-degree-needed 5-plus-years-experience-needed
 
 full-time-job salary 2-4-years-experience-needed supervising-job
-licence-needed 1-year-experience-needed 2-4-years-experience-needed
+licence-needed 1-year-experience-needed
 part-time-job
 part-time-job hourly-wage salary supervising-job
 part-time-job
-licence-needed 2-4-years-experience-needed
+
 salary
 bs-degree-needed
 part-time-job
-
+hourly-wage
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
 full-time-job 1-year-experience-needed
@@ -998,28 +998,28 @@ full-time-job 2-4-years-experience-needed
 
 part-time-job full-time-job hourly-wage associate-needed
 full-time-job hourly-wage 2-4-years-experience-needed
-5-plus-years-experience-needed supervising-job
+supervising-job
 
 
-full-time-job bs-degree-needed 5-plus-years-experience-needed
+bs-degree-needed 5-plus-years-experience-needed
 supervising-job
 full-time-job licence-needed 1-year-experience-needed 2-4-years-experience-needed
 salary 1-year-experience-needed
 associate-needed 2-4-years-experience-needed
 
-part-time-job
+
 supervising-job
 
-salary
+salary licence-needed
 full-time-job salary bs-degree-needed
-part-time-job hourly-wage
+hourly-wage
 
 supervising-job
-salary associate-needed 1-year-experience-needed
+salary 1-year-experience-needed
 full-time-job hourly-wage 1-year-experience-needed
 
 full-time-job
-full-time-job 5-plus-years-experience-needed supervising-job
+full-time-job bs-degree-needed 5-plus-years-experience-needed
 5-plus-years-experience-needed
 2-4-years-experience-needed
 2-4-years-experience-needed
@@ -1028,33 +1028,33 @@ full-time-job licence-needed 1-year-experience-needed
 5-plus-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed supervising-job
 1-year-experience-needed
-full-time-job hourly-wage
-salary licence-needed 1-year-experience-needed
-2-4-years-experience-needed supervising-job
+hourly-wage
+licence-needed
+full-time-job 2-4-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed supervising-job
-full-time-job salary associate-needed 2-4-years-experience-needed
+salary associate-needed 2-4-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed supervising-job
 
-full-time-job licence-needed
+licence-needed
 salary bs-degree-needed 2-4-years-experience-needed
 1-year-experience-needed 5-plus-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed supervising-job
 
 full-time-job 5-plus-years-experience-needed
 full-time-job 2-4-years-experience-needed supervising-job
-
+supervising-job
 2-4-years-experience-needed supervising-job
-salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
-full-time-job salary licence-needed
+salary bs-degree-needed 5-plus-years-experience-needed
+full-time-job licence-needed
 part-time-job
 full-time-job 5-plus-years-experience-needed supervising-job
 
-full-time-job bs-degree-needed 5-plus-years-experience-needed
-
-2-4-years-experience-needed
-full-time-job
-full-time-job hourly-wage licence-needed 2-4-years-experience-needed
+full-time-job bs-degree-needed 5-plus-years-experience-needed supervising-job
+licence-needed
+2-4-years-experience-needed supervising-job
+full-time-job 2-4-years-experience-needed
+hourly-wage licence-needed 2-4-years-experience-needed
 licence-needed
 part-time-job salary
 
@@ -1063,14 +1063,14 @@ bs-degree-needed
 full-time-job
 
 5-plus-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
+part-time-job 2-4-years-experience-needed supervising-job
 
 associate-needed 2-4-years-experience-needed 5-plus-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
 5-plus-years-experience-needed supervising-job
 part-time-job
-2-4-years-experience-needed
+licence-needed 2-4-years-experience-needed supervising-job
 salary 5-plus-years-experience-needed
 
 licence-needed
@@ -1102,15 +1102,15 @@ salary
 full-time-job salary bs-degree-needed 2-4-years-experience-needed supervising-job
 
 
-full-time-job salary bs-degree-needed 2-4-years-experience-needed
+full-time-job salary 2-4-years-experience-needed
 hourly-wage
 bs-degree-needed
 
 full-time-job bs-degree-needed 2-4-years-experience-needed supervising-job
 salary supervising-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+full-time-job bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
-full-time-job salary
+salary
 supervising-job
 
 licence-needed 5-plus-years-experience-needed
@@ -1130,13 +1130,13 @@ full-time-job licence-needed
 part-time-job
 
 bs-degree-needed 5-plus-years-experience-needed supervising-job
-2-4-years-experience-needed
+
 licence-needed 2-4-years-experience-needed
 full-time-job
 
-part-time-job 2-4-years-experience-needed
+2-4-years-experience-needed
 full-time-job bs-degree-needed 5-plus-years-experience-needed
-full-time-job hourly-wage
+full-time-job salary
 salary 2-4-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed supervising-job
 
@@ -1145,7 +1145,7 @@ salary associate-needed 2-4-years-experience-needed
 licence-needed 2-4-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed
 salary associate-needed bs-degree-needed 2-4-years-experience-needed
-part-time-job licence-needed
+part-time-job
 2-4-years-experience-needed supervising-job
 bs-degree-needed
 
@@ -1157,36 +1157,36 @@ salary bs-degree-needed 2-4-years-experience-needed
 2-4-years-experience-needed
 hourly-wage 2-4-years-experience-needed
 
-salary ms-or-phd-needed licence-needed 2-4-years-experience-needed
-salary supervising-job
+licence-needed 2-4-years-experience-needed
+supervising-job
 2-4-years-experience-needed supervising-job
-part-time-job
+
 2-4-years-experience-needed
 salary 2-4-years-experience-needed 5-plus-years-experience-needed
-
+supervising-job
 
 salary
-full-time-job salary 2-4-years-experience-needed 5-plus-years-experience-needed
+full-time-job salary 5-plus-years-experience-needed
 
 5-plus-years-experience-needed
 part-time-job hourly-wage associate-needed
-full-time-job hourly-wage licence-needed
+part-time-job full-time-job hourly-wage licence-needed
 salary
-salary associate-needed 2-4-years-experience-needed
+salary 2-4-years-experience-needed
 
 1-year-experience-needed
-2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed
 
 bs-degree-needed 2-4-years-experience-needed
 hourly-wage
 salary 2-4-years-experience-needed
 
 salary 2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
-salary 2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed
+2-4-years-experience-needed
 salary bs-degree-needed 2-4-years-experience-needed
 licence-needed
-part-time-job
+
 
 full-time-job salary bs-degree-needed 2-4-years-experience-needed
 
@@ -1194,42 +1194,42 @@ full-time-job
 bs-degree-needed 5-plus-years-experience-needed
 
 
-1-year-experience-needed 2-4-years-experience-needed supervising-job
+salary 1-year-experience-needed 2-4-years-experience-needed supervising-job
 
 part-time-job hourly-wage
 bs-degree-needed
-part-time-job licence-needed
+licence-needed
 licence-needed 2-4-years-experience-needed supervising-job
-
+salary
 licence-needed 2-4-years-experience-needed
 hourly-wage licence-needed
 bs-degree-needed
 salary 2-4-years-experience-needed
 licence-needed
 salary 2-4-years-experience-needed supervising-job
-2-4-years-experience-needed
+associate-needed 2-4-years-experience-needed
 full-time-job
 licence-needed
 bs-degree-needed
 part-time-job
-hourly-wage
+
 salary
 5-plus-years-experience-needed
+supervising-job
+full-time-job 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
-full-time-job salary 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
-2-4-years-experience-needed
 licence-needed
-5-plus-years-experience-needed supervising-job
+supervising-job
 licence-needed 2-4-years-experience-needed
-full-time-job bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed
 
 
 bs-degree-needed 2-4-years-experience-needed supervising-job
 full-time-job hourly-wage
 bs-degree-needed 2-4-years-experience-needed
 2-4-years-experience-needed
-bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed
 1-year-experience-needed 2-4-years-experience-needed
 salary
 bs-degree-needed supervising-job
@@ -1243,35 +1243,35 @@ licence-needed
 
 
 licence-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
+bs-degree-needed 5-plus-years-experience-needed supervising-job
 bs-degree-needed
-2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
+
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 salary
 hourly-wage
 bs-degree-needed 2-4-years-experience-needed
-2-4-years-experience-needed
+full-time-job
+part-time-job licence-needed
+licence-needed
+full-time-job supervising-job
 part-time-job
-licence-needed supervising-job
-full-time-job 2-4-years-experience-needed supervising-job
-part-time-job
-full-time-job hourly-wage
+full-time-job
 salary
-hourly-wage salary
+hourly-wage
 part-time-job licence-needed 2-4-years-experience-needed
 part-time-job hourly-wage
 
-salary supervising-job
+salary 2-4-years-experience-needed supervising-job
 salary
-full-time-job salary 2-4-years-experience-needed
+salary bs-degree-needed 2-4-years-experience-needed
 licence-needed
 bs-degree-needed 2-4-years-experience-needed
 2-4-years-experience-needed
-
+supervising-job
 full-time-job bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 salary
-1-year-experience-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+1-year-experience-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 1-year-experience-needed
 salary bs-degree-needed
 hourly-wage licence-needed
 
@@ -1279,15 +1279,15 @@ salary bs-degree-needed 1-year-experience-needed
 5-plus-years-experience-needed
 hourly-wage
 full-time-job salary bs-degree-needed ms-or-phd-needed 2-4-years-experience-needed supervising-job
-full-time-job bs-degree-needed 5-plus-years-experience-needed
+bs-degree-needed 5-plus-years-experience-needed
 full-time-job salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 salary bs-degree-needed
 supervising-job
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 salary
-salary 2-4-years-experience-needed supervising-job
+salary 2-4-years-experience-needed
 
-full-time-job salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 
 full-time-job 5-plus-years-experience-needed
 licence-needed 2-4-years-experience-needed 5-plus-years-experience-needed
@@ -1295,34 +1295,34 @@ salary
 2-4-years-experience-needed
 bs-degree-needed
 
-bs-degree-needed 5-plus-years-experience-needed
-bs-degree-needed supervising-job
-
+bs-degree-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 5-plus-years-experience-needed supervising-job
+salary
 full-time-job salary 2-4-years-experience-needed
 salary licence-needed
-salary bs-degree-needed 5-plus-years-experience-needed
-5-plus-years-experience-needed
+salary associate-needed bs-degree-needed 5-plus-years-experience-needed
+bs-degree-needed 5-plus-years-experience-needed
 
-licence-needed 2-4-years-experience-needed supervising-job
+licence-needed 1-year-experience-needed 2-4-years-experience-needed
 
 2-4-years-experience-needed
 full-time-job salary bs-degree-needed 2-4-years-experience-needed
-associate-needed 5-plus-years-experience-needed
+bs-degree-needed 5-plus-years-experience-needed
 salary 2-4-years-experience-needed
 bs-degree-needed
-
+salary
 full-time-job hourly-wage 5-plus-years-experience-needed
 salary 2-4-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 2-4-years-experience-needed
 bs-degree-needed supervising-job
-salary 2-4-years-experience-needed
+salary 2-4-years-experience-needed supervising-job
 bs-degree-needed
 part-time-job hourly-wage
 
 full-time-job salary
 full-time-job salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
-hourly-wage licence-needed 1-year-experience-needed
+hourly-wage licence-needed
 
 full-time-job bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
@@ -1332,7 +1332,7 @@ full-time-job bs-degree-needed 2-4-years-experience-needed 5-plus-years-experien
 full-time-job salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 full-time-job 2-4-years-experience-needed
 
-full-time-job salary bs-degree-needed 2-4-years-experience-needed
+salary bs-degree-needed 2-4-years-experience-needed
 full-time-job salary
 full-time-job salary
 hourly-wage
@@ -1343,7 +1343,7 @@ full-time-job
 
 full-time-job 2-4-years-experience-needed
 part-time-job hourly-wage associate-needed
-full-time-job salary supervising-job
+salary supervising-job
 full-time-job bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 bs-degree-needed supervising-job
 full-time-job bs-degree-needed 2-4-years-experience-needed supervising-job
@@ -1351,13 +1351,13 @@ full-time-job bs-degree-needed 2-4-years-experience-needed supervising-job
 hourly-wage 2-4-years-experience-needed
 2-4-years-experience-needed
 hourly-wage licence-needed
-bs-degree-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 5-plus-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed
 full-time-job salary 2-4-years-experience-needed
 salary supervising-job
-2-4-years-experience-needed 5-plus-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
-
+5-plus-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+licence-needed
 5-plus-years-experience-needed supervising-job
 part-time-job salary
 full-time-job licence-needed supervising-job
@@ -1366,23 +1366,23 @@ full-time-job
 full-time-job associate-needed 2-4-years-experience-needed
 
 licence-needed
-full-time-job 2-4-years-experience-needed supervising-job
+2-4-years-experience-needed supervising-job
 
 bs-degree-needed 5-plus-years-experience-needed supervising-job
-2-4-years-experience-needed
+full-time-job 2-4-years-experience-needed
 
-licence-needed
+
 
 full-time-job
 full-time-job salary
-full-time-job associate-needed 2-4-years-experience-needed
+part-time-job associate-needed 2-4-years-experience-needed
 1-year-experience-needed
 full-time-job bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 salary bs-degree-needed 2-4-years-experience-needed supervising-job
 2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 part-time-job hourly-wage licence-needed
-
+supervising-job
 
 
 
@@ -1390,8 +1390,8 @@ salary licence-needed 1-year-experience-needed
 
 salary
 full-time-job licence-needed 1-year-experience-needed 2-4-years-experience-needed
-full-time-job bs-degree-needed 2-4-years-experience-needed supervising-job
-salary 2-4-years-experience-needed
+full-time-job salary bs-degree-needed 2-4-years-experience-needed supervising-job
+salary associate-needed 2-4-years-experience-needed
 2-4-years-experience-needed
 full-time-job hourly-wage bs-degree-needed
 
@@ -1400,16 +1400,16 @@ full-time-job hourly-wage bs-degree-needed
 salary bs-degree-needed 2-4-years-experience-needed supervising-job
 supervising-job
 salary 2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
-2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed
-hourly-wage licence-needed
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed
+hourly-wage licence-needed 2-4-years-experience-needed
 
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
-2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+2-4-years-experience-needed supervising-job
 salary supervising-job
-salary associate-needed bs-degree-needed
+salary associate-needed
 supervising-job
 salary bs-degree-needed 2-4-years-experience-needed
 5-plus-years-experience-needed supervising-job
@@ -1421,10 +1421,10 @@ licence-needed
 bs-degree-needed 5-plus-years-experience-needed
 salary bs-degree-needed 5-plus-years-experience-needed supervising-job
 bs-degree-needed 5-plus-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed
 
 bs-degree-needed 2-4-years-experience-needed supervising-job
-full-time-job salary bs-degree-needed 5-plus-years-experience-needed supervising-job
+full-time-job salary bs-degree-needed 2-4-years-experience-needed supervising-job
 2-4-years-experience-needed
 
 salary
@@ -1434,21 +1434,21 @@ full-time-job
 2-4-years-experience-needed 5-plus-years-experience-needed
 
 full-time-job
-
+bs-degree-needed
 2-4-years-experience-needed
 licence-needed
-full-time-job licence-needed supervising-job
+full-time-job supervising-job
 full-time-job salary bs-degree-needed 2-4-years-experience-needed
-2-4-years-experience-needed supervising-job
+2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
-salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+salary bs-degree-needed 5-plus-years-experience-needed
 
 salary bs-degree-needed 5-plus-years-experience-needed supervising-job
 salary supervising-job
 bs-degree-needed 2-4-years-experience-needed
-full-time-job hourly-wage 2-4-years-experience-needed
+full-time-job 2-4-years-experience-needed
 licence-needed
-hourly-wage supervising-job
+full-time-job hourly-wage
 2-4-years-experience-needed
 
 salary 2-4-years-experience-needed
@@ -1457,7 +1457,7 @@ licence-needed
 2-4-years-experience-needed 5-plus-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed
 salary licence-needed 2-4-years-experience-needed supervising-job
-part-time-job hourly-wage 2-4-years-experience-needed
+part-time-job hourly-wage
 
 full-time-job
 salary bs-degree-needed 5-plus-years-experience-needed
@@ -1467,34 +1467,34 @@ bs-degree-needed 5-plus-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed
 hourly-wage
 full-time-job
-bs-degree-needed 2-4-years-experience-needed supervising-job
+salary bs-degree-needed 2-4-years-experience-needed supervising-job
 hourly-wage
 full-time-job hourly-wage
-full-time-job salary 1-year-experience-needed
 full-time-job salary
+full-time-job hourly-wage salary
 salary bs-degree-needed 5-plus-years-experience-needed
 full-time-job bs-degree-needed 2-4-years-experience-needed
-full-time-job salary associate-needed ms-or-phd-needed 2-4-years-experience-needed
+full-time-job salary associate-needed 2-4-years-experience-needed
 licence-needed 2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed
 
 full-time-job bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 2-4-years-experience-needed
-2-4-years-experience-needed
+hourly-wage 2-4-years-experience-needed
 full-time-job bs-degree-needed 2-4-years-experience-needed
 5-plus-years-experience-needed
-part-time-job full-time-job hourly-wage 5-plus-years-experience-needed
+hourly-wage 5-plus-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed
 licence-needed 1-year-experience-needed
 5-plus-years-experience-needed
 licence-needed 1-year-experience-needed
-full-time-job salary associate-needed 2-4-years-experience-needed
+full-time-job hourly-wage salary associate-needed 2-4-years-experience-needed
 2-4-years-experience-needed
 supervising-job
-bs-degree-needed 2-4-years-experience-needed supervising-job
+associate-needed bs-degree-needed 2-4-years-experience-needed supervising-job
 salary 2-4-years-experience-needed
 salary
-bs-degree-needed
+bs-degree-needed supervising-job
 licence-needed
 bs-degree-needed 5-plus-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
@@ -1509,52 +1509,52 @@ licence-needed
 full-time-job 2-4-years-experience-needed
 
 full-time-job 5-plus-years-experience-needed
-2-4-years-experience-needed
+2-4-years-experience-needed supervising-job
 part-time-job
 
 hourly-wage
 part-time-job
 full-time-job hourly-wage
-full-time-job salary
+full-time-job
 salary
 bs-degree-needed 2-4-years-experience-needed supervising-job
-full-time-job salary 2-4-years-experience-needed
+full-time-job 2-4-years-experience-needed
 full-time-job salary licence-needed
 salary
 2-4-years-experience-needed supervising-job
-licence-needed supervising-job
+supervising-job
 
-5-plus-years-experience-needed
-full-time-job
+2-4-years-experience-needed 5-plus-years-experience-needed
+part-time-job full-time-job
 
-2-4-years-experience-needed
+
 full-time-job salary bs-degree-needed 2-4-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
-5-plus-years-experience-needed supervising-job
+5-plus-years-experience-needed
 
 bs-degree-needed 5-plus-years-experience-needed
-
-full-time-job salary 2-4-years-experience-needed
+bs-degree-needed
+2-4-years-experience-needed
 hourly-wage
 full-time-job salary supervising-job
-full-time-job bs-degree-needed 5-plus-years-experience-needed supervising-job
+5-plus-years-experience-needed supervising-job
 full-time-job hourly-wage salary 2-4-years-experience-needed
-part-time-job full-time-job
-1-year-experience-needed
+part-time-job
+
 licence-needed
 full-time-job
 1-year-experience-needed
 
-part-time-job full-time-job
-salary supervising-job
+part-time-job full-time-job hourly-wage
 full-time-job salary
-licence-needed 1-year-experience-needed
+full-time-job salary
+licence-needed
 full-time-job salary bs-degree-needed
 
 1-year-experience-needed
 
-bs-degree-needed 2-4-years-experience-needed supervising-job
-2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed
+part-time-job associate-needed 2-4-years-experience-needed
 
 
 2-4-years-experience-needed
@@ -1562,7 +1562,7 @@ full-time-job
 
 
 full-time-job salary licence-needed
-part-time-job
+
 
 licence-needed 1-year-experience-needed
 salary bs-degree-needed 2-4-years-experience-needed
@@ -1590,15 +1590,15 @@ full-time-job
 bs-degree-needed
 full-time-job salary
 
-full-time-job salary licence-needed supervising-job
+full-time-job salary supervising-job
 salary bs-degree-needed 5-plus-years-experience-needed
 licence-needed
 full-time-job salary 2-4-years-experience-needed
 full-time-job 2-4-years-experience-needed supervising-job
-salary
+salary licence-needed
 full-time-job licence-needed
 licence-needed 2-4-years-experience-needed
-full-time-job
+full-time-job hourly-wage
 
 full-time-job
 full-time-job bs-degree-needed 2-4-years-experience-needed
@@ -1607,45 +1607,45 @@ salary
 
 salary 2-4-years-experience-needed
 2-4-years-experience-needed supervising-job
-bs-degree-needed
+bs-degree-needed supervising-job
 
 
 full-time-job hourly-wage
 salary bs-degree-needed 2-4-years-experience-needed supervising-job
 salary 2-4-years-experience-needed
 full-time-job
-bs-degree-needed 2-4-years-experience-needed
+full-time-job bs-degree-needed 2-4-years-experience-needed
 full-time-job hourly-wage
-full-time-job licence-needed
+licence-needed
 
-bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed
 2-4-years-experience-needed
 hourly-wage licence-needed
 bs-degree-needed 1-year-experience-needed
 supervising-job
-bs-degree-needed 5-plus-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
+5-plus-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 licence-needed 2-4-years-experience-needed
 supervising-job
 salary
 licence-needed 2-4-years-experience-needed
 salary
 full-time-job 5-plus-years-experience-needed
-salary bs-degree-needed 5-plus-years-experience-needed supervising-job
+salary bs-degree-needed supervising-job
 part-time-job hourly-wage
 part-time-job hourly-wage
 hourly-wage salary
 
-part-time-job full-time-job
-full-time-job salary 1-year-experience-needed 2-4-years-experience-needed
-full-time-job 2-4-years-experience-needed
+full-time-job
+salary 2-4-years-experience-needed
+full-time-job
 full-time-job bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 full-time-job bs-degree-needed 2-4-years-experience-needed
-full-time-job hourly-wage associate-needed 2-4-years-experience-needed
+hourly-wage associate-needed 2-4-years-experience-needed
 hourly-wage bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed
 supervising-job
 bs-degree-needed 2-4-years-experience-needed supervising-job
-part-time-job 1-year-experience-needed
+1-year-experience-needed
 
 full-time-job
 full-time-job 2-4-years-experience-needed
@@ -1664,10 +1664,10 @@ part-time-job full-time-job
 salary 5-plus-years-experience-needed
 salary
 full-time-job 1-year-experience-needed
-full-time-job salary associate-needed 5-plus-years-experience-needed
+salary associate-needed 5-plus-years-experience-needed
 salary associate-needed
 bs-degree-needed 2-4-years-experience-needed
-full-time-job bs-degree-needed 2-4-years-experience-needed supervising-job
+full-time-job bs-degree-needed 1-year-experience-needed supervising-job
 5-plus-years-experience-needed
 2-4-years-experience-needed
 part-time-job 2-4-years-experience-needed
@@ -1677,32 +1677,32 @@ bs-degree-needed licence-needed 2-4-years-experience-needed 5-plus-years-experie
 salary
 full-time-job 2-4-years-experience-needed
 salary 5-plus-years-experience-needed supervising-job
-full-time-job licence-needed
+full-time-job
 bs-degree-needed 2-4-years-experience-needed
-bs-degree-needed supervising-job
-2-4-years-experience-needed 5-plus-years-experience-needed
+bs-degree-needed
+bs-degree-needed 2-4-years-experience-needed
 full-time-job
 
 
-full-time-job hourly-wage
+full-time-job hourly-wage 1-year-experience-needed
 
-salary bs-degree-needed 5-plus-years-experience-needed supervising-job
+salary bs-degree-needed 5-plus-years-experience-needed
 salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
-
-part-time-job
+full-time-job salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+full-time-job
+part-time-job hourly-wage
 full-time-job salary licence-needed
 
-5-plus-years-experience-needed
+licence-needed 5-plus-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed supervising-job
-licence-needed
+hourly-wage licence-needed 2-4-years-experience-needed
 2-4-years-experience-needed
-full-time-job hourly-wage 2-4-years-experience-needed
+part-time-job full-time-job hourly-wage 2-4-years-experience-needed
 2-4-years-experience-needed supervising-job
 salary
 
 full-time-job salary bs-degree-needed 2-4-years-experience-needed
-full-time-job salary
+full-time-job salary licence-needed
 
 supervising-job
 full-time-job
@@ -1712,27 +1712,27 @@ salary
 full-time-job bs-degree-needed 1-year-experience-needed
 1-year-experience-needed
 
-part-time-job licence-needed
+part-time-job hourly-wage licence-needed
 part-time-job
 licence-needed
 hourly-wage 5-plus-years-experience-needed
 
-2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed
 
 full-time-job
 full-time-job licence-needed 2-4-years-experience-needed
 licence-needed
 
 part-time-job hourly-wage
-part-time-job full-time-job hourly-wage
-part-time-job
+hourly-wage
+
 bs-degree-needed 2-4-years-experience-needed
-full-time-job licence-needed 2-4-years-experience-needed
+full-time-job hourly-wage licence-needed
 salary 2-4-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed
-
+5-plus-years-experience-needed
 licence-needed
-licence-needed 2-4-years-experience-needed
+licence-needed 1-year-experience-needed 2-4-years-experience-needed
 hourly-wage
 2-4-years-experience-needed
 
@@ -1741,36 +1741,36 @@ salary licence-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 
 part-time-job hourly-wage
 
+bs-degree-needed
 
-
-supervising-job
+salary supervising-job
 
 
 full-time-job hourly-wage 5-plus-years-experience-needed
 full-time-job salary bs-degree-needed 2-4-years-experience-needed
 5-plus-years-experience-needed
-full-time-job bs-degree-needed 2-4-years-experience-needed
-full-time-job
+full-time-job bs-degree-needed
+full-time-job hourly-wage
 full-time-job salary licence-needed
 
-bs-degree-needed supervising-job
-
-full-time-job bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed supervising-job
+bs-degree-needed
+licence-needed
+full-time-job bs-degree-needed 2-4-years-experience-needed supervising-job
 2-4-years-experience-needed
 full-time-job salary bs-degree-needed ms-or-phd-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-2-4-years-experience-needed supervising-job
+salary 2-4-years-experience-needed supervising-job
 5-plus-years-experience-needed
 salary
 
 associate-needed bs-degree-needed
-full-time-job bs-degree-needed 2-4-years-experience-needed supervising-job
+full-time-job associate-needed 2-4-years-experience-needed supervising-job
 salary
 
 
-full-time-job 2-4-years-experience-needed
+2-4-years-experience-needed
 bs-degree-needed
 full-time-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+2-4-years-experience-needed 5-plus-years-experience-needed
 
 part-time-job bs-degree-needed
 part-time-job licence-needed
@@ -1785,29 +1785,29 @@ full-time-job salary
 salary
 
 
-full-time-job
+part-time-job full-time-job 1-year-experience-needed
 
 part-time-job hourly-wage
-2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed
 
-associate-needed bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed
+associate-needed 2-4-years-experience-needed
 
 2-4-years-experience-needed supervising-job
 
 
 salary 2-4-years-experience-needed supervising-job
-2-4-years-experience-needed
-
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+2-4-years-experience-needed supervising-job
+part-time-job
+bs-degree-needed supervising-job
 hourly-wage
 full-time-job salary
-1-year-experience-needed 2-4-years-experience-needed
+salary 1-year-experience-needed 2-4-years-experience-needed
 part-time-job
 full-time-job hourly-wage licence-needed 1-year-experience-needed
 full-time-job licence-needed
 full-time-job salary supervising-job
 
-full-time-job hourly-wage associate-needed supervising-job
+hourly-wage supervising-job
 full-time-job 2-4-years-experience-needed
 
 salary bs-degree-needed 2-4-years-experience-needed
@@ -1815,14 +1815,14 @@ salary bs-degree-needed 2-4-years-experience-needed
 
 bs-degree-needed 5-plus-years-experience-needed supervising-job
 5-plus-years-experience-needed
-bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed
+bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed supervising-job
 full-time-job
 
 full-time-job associate-needed 2-4-years-experience-needed
 licence-needed
 
 full-time-job bs-degree-needed
-full-time-job 2-4-years-experience-needed supervising-job
+2-4-years-experience-needed supervising-job
 part-time-job
 salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 bs-degree-needed supervising-job
@@ -1832,52 +1832,52 @@ hourly-wage
 2-4-years-experience-needed
 licence-needed
 2-4-years-experience-needed supervising-job
-salary associate-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
+salary
+salary bs-degree-needed 2-4-years-experience-needed
 
 
-bs-degree-needed ms-or-phd-needed
+bs-degree-needed
 part-time-job full-time-job 1-year-experience-needed
 full-time-job salary licence-needed
 
-licence-needed 1-year-experience-needed
-full-time-job salary 2-4-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed
-1-year-experience-needed 2-4-years-experience-needed
+licence-needed 1-year-experience-needed 2-4-years-experience-needed
+salary 2-4-years-experience-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed supervising-job
+bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed
 
 full-time-job licence-needed
 bs-degree-needed 2-4-years-experience-needed
 
 salary 2-4-years-experience-needed supervising-job
-full-time-job salary
+salary
 
 
-hourly-wage salary
+hourly-wage
 
 hourly-wage salary associate-needed bs-degree-needed
 2-4-years-experience-needed
 
 full-time-job salary bs-degree-needed 2-4-years-experience-needed
-full-time-job licence-needed 2-4-years-experience-needed
-full-time-job hourly-wage 2-4-years-experience-needed
+full-time-job licence-needed
+full-time-job hourly-wage salary 2-4-years-experience-needed
 
 
 licence-needed supervising-job
-full-time-job 2-4-years-experience-needed
+2-4-years-experience-needed
 full-time-job bs-degree-needed supervising-job
 
 full-time-job salary
 salary 2-4-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed supervising-job
 5-plus-years-experience-needed supervising-job
 2-4-years-experience-needed
 2-4-years-experience-needed
-full-time-job 5-plus-years-experience-needed
+full-time-job
 full-time-job salary
 bs-degree-needed 2-4-years-experience-needed supervising-job
 
-1-year-experience-needed
+
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 full-time-job licence-needed
 
@@ -1886,7 +1886,7 @@ bs-degree-needed 2-4-years-experience-needed supervising-job
 full-time-job hourly-wage salary bs-degree-needed
 salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
-salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+salary bs-degree-needed 2-4-years-experience-needed supervising-job
 
 salary supervising-job
 licence-needed
@@ -1896,39 +1896,39 @@ salary
 full-time-job licence-needed supervising-job
 full-time-job hourly-wage licence-needed
 full-time-job salary bs-degree-needed 2-4-years-experience-needed supervising-job
-full-time-job bs-degree-needed 2-4-years-experience-needed
-
+full-time-job bs-degree-needed
+1-year-experience-needed
 
 full-time-job licence-needed
-part-time-job licence-needed 2-4-years-experience-needed
+licence-needed 2-4-years-experience-needed
 full-time-job licence-needed 1-year-experience-needed
 
 bs-degree-needed 2-4-years-experience-needed
 
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 
-bs-degree-needed 2-4-years-experience-needed supervising-job
-part-time-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+bs-degree-needed ms-or-phd-needed 2-4-years-experience-needed supervising-job
+
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 2-4-years-experience-needed
 
-2-4-years-experience-needed 5-plus-years-experience-needed
-salary 5-plus-years-experience-needed supervising-job
+full-time-job 2-4-years-experience-needed 5-plus-years-experience-needed
+supervising-job
 licence-needed
-full-time-job
+
 full-time-job licence-needed
 full-time-job hourly-wage
 2-4-years-experience-needed
-2-4-years-experience-needed
+
 licence-needed 2-4-years-experience-needed
-part-time-job full-time-job hourly-wage
+part-time-job hourly-wage salary
 2-4-years-experience-needed
 
 licence-needed
 full-time-job
-
+part-time-job
 full-time-job salary licence-needed
-full-time-job bs-degree-needed
+bs-degree-needed
 licence-needed
 2-4-years-experience-needed
 licence-needed 5-plus-years-experience-needed
@@ -1937,7 +1937,7 @@ licence-needed
 salary
 
 bs-degree-needed 2-4-years-experience-needed
-bs-degree-needed 5-plus-years-experience-needed
+bs-degree-needed
 
 2-4-years-experience-needed
 bs-degree-needed
@@ -1947,18 +1947,18 @@ part-time-job hourly-wage
 
 part-time-job hourly-wage
 
-full-time-job 2-4-years-experience-needed 5-plus-years-experience-needed
+full-time-job bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 licence-needed 2-4-years-experience-needed
 licence-needed
 salary bs-degree-needed 2-4-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
-licence-needed 2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed
+2-4-years-experience-needed
 
 salary supervising-job
 full-time-job licence-needed
 bs-degree-needed 2-4-years-experience-needed
 part-time-job hourly-wage
-hourly-wage associate-needed 1-year-experience-needed
+part-time-job hourly-wage associate-needed 1-year-experience-needed
 
 bs-degree-needed 5-plus-years-experience-needed supervising-job
 salary licence-needed
@@ -1968,43 +1968,43 @@ hourly-wage
 full-time-job hourly-wage licence-needed
 part-time-job 2-4-years-experience-needed
 bs-degree-needed
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 5-plus-years-experience-needed supervising-job
 
 part-time-job
 
 bs-degree-needed
 full-time-job 2-4-years-experience-needed
-bs-degree-needed 5-plus-years-experience-needed supervising-job
-supervising-job
-hourly-wage salary 1-year-experience-needed supervising-job
-licence-needed
-licence-needed
-5-plus-years-experience-needed
+salary bs-degree-needed 5-plus-years-experience-needed supervising-job
+
+salary supervising-job
+hourly-wage licence-needed
+hourly-wage licence-needed
+part-time-job 2-4-years-experience-needed
 
 salary bs-degree-needed 2-4-years-experience-needed
 
-full-time-job
+
 salary 2-4-years-experience-needed
 
 1-year-experience-needed 2-4-years-experience-needed
-2-4-years-experience-needed
+full-time-job
 full-time-job 1-year-experience-needed
 
 2-4-years-experience-needed
 
 bs-degree-needed 5-plus-years-experience-needed supervising-job
 salary 2-4-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed supervising-job
 bs-degree-needed 1-year-experience-needed 5-plus-years-experience-needed
 licence-needed
 bs-degree-needed 5-plus-years-experience-needed supervising-job
 full-time-job hourly-wage licence-needed
-salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-full-time-job 2-4-years-experience-needed 5-plus-years-experience-needed
+salary bs-degree-needed 2-4-years-experience-needed supervising-job
+2-4-years-experience-needed 5-plus-years-experience-needed
 
 salary 1-year-experience-needed
 bs-degree-needed 2-4-years-experience-needed
-2-4-years-experience-needed
+licence-needed
 full-time-job licence-needed
 full-time-job bs-degree-needed 1-year-experience-needed
 
@@ -2012,9 +2012,9 @@ full-time-job bs-degree-needed 1-year-experience-needed
 full-time-job salary
 
 2-4-years-experience-needed
-bs-degree-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 5-plus-years-experience-needed
 part-time-job licence-needed 1-year-experience-needed
-supervising-job
+
 2-4-years-experience-needed supervising-job
 
 bs-degree-needed 2-4-years-experience-needed supervising-job
@@ -2022,46 +2022,46 @@ bs-degree-needed 2-4-years-experience-needed supervising-job
 hourly-wage
 5-plus-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed supervising-job
-bs-degree-needed
+bs-degree-needed 5-plus-years-experience-needed
 associate-needed bs-degree-needed 2-4-years-experience-needed
 full-time-job
 full-time-job salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-associate-needed supervising-job
-full-time-job hourly-wage 2-4-years-experience-needed supervising-job
+supervising-job
+part-time-job full-time-job hourly-wage 2-4-years-experience-needed supervising-job
 full-time-job 5-plus-years-experience-needed
 
 full-time-job salary 5-plus-years-experience-needed
 
 
-
+hourly-wage
 full-time-job licence-needed 2-4-years-experience-needed
-1-year-experience-needed 2-4-years-experience-needed
-1-year-experience-needed
+2-4-years-experience-needed
+
 full-time-job hourly-wage salary 5-plus-years-experience-needed supervising-job
-salary
+salary 2-4-years-experience-needed
 part-time-job hourly-wage
 2-4-years-experience-needed
 2-4-years-experience-needed supervising-job
 bs-degree-needed 5-plus-years-experience-needed
 part-time-job hourly-wage
 
-supervising-job
+
 part-time-job
-full-time-job supervising-job
+full-time-job
 hourly-wage
 
-associate-needed 2-4-years-experience-needed
+2-4-years-experience-needed
 full-time-job
 
 salary bs-degree-needed 2-4-years-experience-needed
-part-time-job licence-needed
+part-time-job full-time-job licence-needed
 full-time-job salary associate-needed 2-4-years-experience-needed
 
 salary licence-needed 2-4-years-experience-needed
-
+salary
 part-time-job licence-needed 2-4-years-experience-needed
 licence-needed 1-year-experience-needed
-
+licence-needed
 full-time-job bs-degree-needed 2-4-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
@@ -2076,25 +2076,25 @@ part-time-job hourly-wage
 salary bs-degree-needed 1-year-experience-needed supervising-job
 2-4-years-experience-needed
 2-4-years-experience-needed
-full-time-job 1-year-experience-needed
+1-year-experience-needed
 full-time-job bs-degree-needed 5-plus-years-experience-needed
 
 full-time-job
-2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+2-4-years-experience-needed supervising-job
 
-licence-needed 2-4-years-experience-needed
-salary bs-degree-needed
+licence-needed 1-year-experience-needed 2-4-years-experience-needed
+salary bs-degree-needed 5-plus-years-experience-needed
 licence-needed
-part-time-job hourly-wage 2-4-years-experience-needed
+full-time-job hourly-wage 2-4-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed
-full-time-job salary bs-degree-needed 2-4-years-experience-needed supervising-job
+full-time-job salary bs-degree-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed
 part-time-job hourly-wage bs-degree-needed
-full-time-job salary
+salary supervising-job
 
 2-4-years-experience-needed
 salary
-associate-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+full-time-job associate-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 part-time-job salary
 full-time-job 2-4-years-experience-needed supervising-job
 associate-needed bs-degree-needed supervising-job
@@ -2107,24 +2107,24 @@ salary
 hourly-wage
 licence-needed
 salary bs-degree-needed 5-plus-years-experience-needed supervising-job
-
-
+supervising-job
+bs-degree-needed
 licence-needed
 salary bs-degree-needed
 
 full-time-job
 part-time-job 2-4-years-experience-needed
 full-time-job
-2-4-years-experience-needed
+full-time-job 2-4-years-experience-needed
 
 
 full-time-job salary
 part-time-job licence-needed
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-full-time-job hourly-wage 1-year-experience-needed 2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed supervising-job
+full-time-job 1-year-experience-needed 2-4-years-experience-needed
 full-time-job
 2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed
 full-time-job bs-degree-needed 2-4-years-experience-needed
 full-time-job bs-degree-needed 2-4-years-experience-needed supervising-job
 
@@ -2134,7 +2134,7 @@ bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed
 bs-degree-needed supervising-job
 5-plus-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed supervising-job
-
+5-plus-years-experience-needed
 salary 5-plus-years-experience-needed
 
 
@@ -2145,16 +2145,16 @@ full-time-job 2-4-years-experience-needed
 5-plus-years-experience-needed
 salary bs-degree-needed
 
-hourly-wage licence-needed 2-4-years-experience-needed
+hourly-wage 2-4-years-experience-needed
 full-time-job
-bs-degree-needed 5-plus-years-experience-needed
+bs-degree-needed 1-year-experience-needed 5-plus-years-experience-needed
 full-time-job supervising-job
 full-time-job
 5-plus-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed
+2-4-years-experience-needed
 
 supervising-job
-full-time-job bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+full-time-job bs-degree-needed 5-plus-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 part-time-job
 2-4-years-experience-needed
@@ -2167,54 +2167,54 @@ hourly-wage 2-4-years-experience-needed
 
 licence-needed supervising-job
 licence-needed
-salary 2-4-years-experience-needed 5-plus-years-experience-needed
-
+salary 5-plus-years-experience-needed supervising-job
+bs-degree-needed
 
 bs-degree-needed 2-4-years-experience-needed supervising-job
 full-time-job licence-needed
 1-year-experience-needed
 2-4-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed supervising-job
-2-4-years-experience-needed
+bs-degree-needed supervising-job
+
 bs-degree-needed 2-4-years-experience-needed
-licence-needed
+
 full-time-job salary bs-degree-needed 5-plus-years-experience-needed
-full-time-job bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed
+bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed
 licence-needed 1-year-experience-needed
 full-time-job hourly-wage
-supervising-job
-full-time-job salary bs-degree-needed
+5-plus-years-experience-needed supervising-job
+full-time-job bs-degree-needed
 licence-needed 2-4-years-experience-needed
 full-time-job salary associate-needed 2-4-years-experience-needed
 2-4-years-experience-needed
 full-time-job licence-needed
-full-time-job 1-year-experience-needed
-
+full-time-job
+part-time-job
 part-time-job licence-needed
 part-time-job
 salary
 1-year-experience-needed
-salary supervising-job
-full-time-job associate-needed 2-4-years-experience-needed
+supervising-job
+full-time-job 2-4-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed
 full-time-job hourly-wage
 
 
 part-time-job hourly-wage
 licence-needed
-5-plus-years-experience-needed
+part-time-job 5-plus-years-experience-needed
 
 licence-needed
 
 1-year-experience-needed 2-4-years-experience-needed
-5-plus-years-experience-needed
+
 
 full-time-job salary 2-4-years-experience-needed
 full-time-job salary 2-4-years-experience-needed supervising-job
 salary 2-4-years-experience-needed supervising-job
-part-time-job licence-needed
-bs-degree-needed
+licence-needed
+bs-degree-needed 1-year-experience-needed
 
 full-time-job
 salary bs-degree-needed 2-4-years-experience-needed
@@ -2224,10 +2224,10 @@ salary
 5-plus-years-experience-needed
 licence-needed
 part-time-job
-full-time-job hourly-wage
+hourly-wage
 full-time-job 2-4-years-experience-needed
 licence-needed 2-4-years-experience-needed supervising-job
-full-time-job 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+2-4-years-experience-needed 5-plus-years-experience-needed
 part-time-job full-time-job
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 full-time-job
@@ -2243,35 +2243,35 @@ part-time-job hourly-wage
 full-time-job licence-needed
 salary 2-4-years-experience-needed
 
-full-time-job hourly-wage
+hourly-wage
 part-time-job hourly-wage associate-needed 2-4-years-experience-needed
 full-time-job salary bs-degree-needed 2-4-years-experience-needed supervising-job
 hourly-wage
-hourly-wage
+part-time-job hourly-wage
 
 associate-needed bs-degree-needed supervising-job
 hourly-wage
-hourly-wage licence-needed
+licence-needed
 
 
 hourly-wage licence-needed 2-4-years-experience-needed
 full-time-job salary 1-year-experience-needed 5-plus-years-experience-needed
 2-4-years-experience-needed
 2-4-years-experience-needed supervising-job
-part-time-job full-time-job hourly-wage licence-needed
+part-time-job hourly-wage licence-needed
 2-4-years-experience-needed 5-plus-years-experience-needed
-associate-needed 2-4-years-experience-needed supervising-job
+associate-needed 2-4-years-experience-needed
 full-time-job salary 2-4-years-experience-needed
 licence-needed
 
 
-licence-needed
+part-time-job licence-needed
 
 full-time-job salary 2-4-years-experience-needed supervising-job
 salary bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed
 full-time-job licence-needed 1-year-experience-needed
-full-time-job salary 5-plus-years-experience-needed
-bs-degree-needed 5-plus-years-experience-needed supervising-job
+full-time-job hourly-wage salary
+associate-needed bs-degree-needed 5-plus-years-experience-needed supervising-job
 full-time-job salary 1-year-experience-needed 2-4-years-experience-needed
 supervising-job
 
@@ -2279,12 +2279,12 @@ supervising-job
 full-time-job bs-degree-needed
 part-time-job hourly-wage
 
-full-time-job 2-4-years-experience-needed
-5-plus-years-experience-needed
+2-4-years-experience-needed
 
+1-year-experience-needed
 
 part-time-job full-time-job hourly-wage
-
+hourly-wage licence-needed
 
 full-time-job salary 2-4-years-experience-needed
 licence-needed 1-year-experience-needed
@@ -2293,14 +2293,14 @@ salary bs-degree-needed 5-plus-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed
 
 bs-degree-needed 5-plus-years-experience-needed supervising-job
-full-time-job bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+full-time-job salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 supervising-job
 supervising-job
 
 bs-degree-needed 2-4-years-experience-needed
 full-time-job
 bs-degree-needed
-salary
+
 salary 5-plus-years-experience-needed supervising-job
 hourly-wage
 full-time-job
@@ -2313,39 +2313,39 @@ full-time-job 2-4-years-experience-needed
 associate-needed bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
 bs-degree-needed
-2-4-years-experience-needed
+full-time-job 2-4-years-experience-needed
 full-time-job hourly-wage associate-needed bs-degree-needed
-salary 5-plus-years-experience-needed
-full-time-job 5-plus-years-experience-needed supervising-job
+salary bs-degree-needed 5-plus-years-experience-needed
+full-time-job supervising-job
 part-time-job full-time-job hourly-wage
-
+licence-needed
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-full-time-job
+full-time-job supervising-job
 licence-needed supervising-job
 
 ms-or-phd-needed licence-needed
 2-4-years-experience-needed
-bs-degree-needed ms-or-phd-needed 2-4-years-experience-needed supervising-job
+bs-degree-needed supervising-job
 1-year-experience-needed
 2-4-years-experience-needed supervising-job
-full-time-job hourly-wage 5-plus-years-experience-needed
+hourly-wage
 full-time-job 2-4-years-experience-needed
-
-full-time-job salary 1-year-experience-needed 5-plus-years-experience-needed
+salary
+full-time-job salary 1-year-experience-needed 5-plus-years-experience-needed supervising-job
 full-time-job salary
 licence-needed
-salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 full-time-job
 full-time-job licence-needed
-1-year-experience-needed supervising-job
+salary 1-year-experience-needed supervising-job
 bs-degree-needed
-bs-degree-needed 5-plus-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 1-year-experience-needed
 full-time-job 2-4-years-experience-needed
 full-time-job salary
 part-time-job hourly-wage
-bs-degree-needed 2-4-years-experience-needed supervising-job
-full-time-job 2-4-years-experience-needed supervising-job
+2-4-years-experience-needed
+full-time-job hourly-wage 2-4-years-experience-needed supervising-job
 part-time-job
 licence-needed 2-4-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed
@@ -2375,93 +2375,93 @@ supervising-job
 licence-needed
 part-time-job full-time-job hourly-wage
 full-time-job salary 2-4-years-experience-needed
-salary 2-4-years-experience-needed
+2-4-years-experience-needed supervising-job
 
 associate-needed 1-year-experience-needed 2-4-years-experience-needed
 
 full-time-job licence-needed 1-year-experience-needed
-1-year-experience-needed
+2-4-years-experience-needed
 
-salary bs-degree-needed supervising-job
+salary bs-degree-needed 5-plus-years-experience-needed supervising-job
 2-4-years-experience-needed supervising-job
-part-time-job hourly-wage
+hourly-wage
 hourly-wage
 bs-degree-needed 2-4-years-experience-needed supervising-job
-licence-needed 1-year-experience-needed 2-4-years-experience-needed
+licence-needed 1-year-experience-needed
 bs-degree-needed 2-4-years-experience-needed
 bs-degree-needed supervising-job
 bs-degree-needed licence-needed supervising-job
-full-time-job 2-4-years-experience-needed
 full-time-job
+full-time-job licence-needed
 salary
 
 full-time-job hourly-wage
 full-time-job salary licence-needed 2-4-years-experience-needed
-2-4-years-experience-needed
+associate-needed 2-4-years-experience-needed
 
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 salary bs-degree-needed 2-4-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed
-
-salary
 hourly-wage
+salary
+full-time-job hourly-wage 5-plus-years-experience-needed
 
 full-time-job
 full-time-job
 
-full-time-job
+
 associate-needed 2-4-years-experience-needed
 part-time-job hourly-wage
 
-1-year-experience-needed 2-4-years-experience-needed
+full-time-job 1-year-experience-needed 2-4-years-experience-needed
 
 bs-degree-needed
 bs-degree-needed 2-4-years-experience-needed supervising-job
 
 part-time-job
-hourly-wage 2-4-years-experience-needed
+2-4-years-experience-needed
 full-time-job hourly-wage salary licence-needed 1-year-experience-needed
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
-bs-degree-needed supervising-job
+
 hourly-wage
-salary associate-needed supervising-job
+salary supervising-job
 salary bs-degree-needed 2-4-years-experience-needed
 
 full-time-job salary 2-4-years-experience-needed supervising-job
 bs-degree-needed 5-plus-years-experience-needed supervising-job
 licence-needed 2-4-years-experience-needed
-bs-degree-needed supervising-job
+salary bs-degree-needed supervising-job
 full-time-job supervising-job
 salary bs-degree-needed
 part-time-job hourly-wage
-
-associate-needed bs-degree-needed
-bs-degree-needed licence-needed 2-4-years-experience-needed supervising-job
+part-time-job
+associate-needed
+bs-degree-needed ms-or-phd-needed licence-needed 2-4-years-experience-needed supervising-job
 
 full-time-job salary 2-4-years-experience-needed
 
 
-
-
-part-time-job full-time-job hourly-wage licence-needed 1-year-experience-needed
+hourly-wage
+licence-needed
+part-time-job hourly-wage licence-needed 1-year-experience-needed
 full-time-job salary bs-degree-needed 5-plus-years-experience-needed
-2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+2-4-years-experience-needed 5-plus-years-experience-needed
 hourly-wage licence-needed
 full-time-job
 
 5-plus-years-experience-needed
 
-associate-needed 2-4-years-experience-needed supervising-job
+associate-needed licence-needed 2-4-years-experience-needed supervising-job
 2-4-years-experience-needed
-part-time-job
+
 hourly-wage
-full-time-job salary 2-4-years-experience-needed supervising-job
+full-time-job salary 2-4-years-experience-needed
 salary 2-4-years-experience-needed
 full-time-job salary
-full-time-job salary 2-4-years-experience-needed
+salary
 bs-degree-needed 2-4-years-experience-needed supervising-job
 licence-needed
-bs-degree-needed
+bs-degree-needed 2-4-years-experience-needed
 
 
 licence-needed
@@ -2469,9 +2469,9 @@ supervising-job
 part-time-job
 salary bs-degree-needed 2-4-years-experience-needed
 part-time-job hourly-wage
-2-4-years-experience-needed
-full-time-job salary
-
+1-year-experience-needed
+full-time-job hourly-wage salary 1-year-experience-needed
+5-plus-years-experience-needed
 2-4-years-experience-needed
 
 
@@ -2483,13 +2483,13 @@ full-time-job salary
 bs-degree-needed 5-plus-years-experience-needed
 
 5-plus-years-experience-needed
-full-time-job bs-degree-needed 2-4-years-experience-needed
-bs-degree-needed
-salary associate-needed bs-degree-needed 2-4-years-experience-needed
-2-4-years-experience-needed supervising-job
-salary 5-plus-years-experience-needed
-licence-needed 2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed 5-plus-years-experience-needed
+salary associate-needed bs-degree-needed
 2-4-years-experience-needed
+5-plus-years-experience-needed
+licence-needed
+part-time-job 2-4-years-experience-needed
 salary
 
 full-time-job salary 2-4-years-experience-needed 5-plus-years-experience-needed
@@ -2498,20 +2498,20 @@ salary licence-needed
 salary
 2-4-years-experience-needed
 licence-needed
-full-time-job 2-4-years-experience-needed supervising-job
-salary bs-degree-needed 2-4-years-experience-needed
+2-4-years-experience-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed
 hourly-wage
 salary bs-degree-needed 5-plus-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+bs-degree-needed 5-plus-years-experience-needed
 supervising-job
 licence-needed supervising-job
 part-time-job hourly-wage
-part-time-job full-time-job hourly-wage
-licence-needed 2-4-years-experience-needed
+part-time-job
+licence-needed
 
-licence-needed 1-year-experience-needed 2-4-years-experience-needed
+licence-needed 2-4-years-experience-needed
 5-plus-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+2-4-years-experience-needed 5-plus-years-experience-needed
 full-time-job salary licence-needed
 full-time-job salary ms-or-phd-needed licence-needed 1-year-experience-needed
 licence-needed
@@ -2519,8 +2519,8 @@ bs-degree-needed
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 salary
 bs-degree-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed
-bs-degree-needed 5-plus-years-experience-needed supervising-job
+2-4-years-experience-needed
+bs-degree-needed 5-plus-years-experience-needed
 2-4-years-experience-needed
 full-time-job salary
 full-time-job
@@ -2533,19 +2533,19 @@ supervising-job
 bs-degree-needed 2-4-years-experience-needed
 salary 2-4-years-experience-needed supervising-job
 5-plus-years-experience-needed
-2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+5-plus-years-experience-needed supervising-job
 hourly-wage
-supervising-job
-bs-degree-needed 2-4-years-experience-needed
-full-time-job salary
+2-4-years-experience-needed
+associate-needed bs-degree-needed 2-4-years-experience-needed
+full-time-job
 full-time-job 2-4-years-experience-needed
-salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+salary 2-4-years-experience-needed 5-plus-years-experience-needed
 full-time-job hourly-wage
 full-time-job
-2-4-years-experience-needed 5-plus-years-experience-needed
+2-4-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-salary 2-4-years-experience-needed
-salary
+salary bs-degree-needed 2-4-years-experience-needed
+
 part-time-job 5-plus-years-experience-needed
 part-time-job licence-needed
 
@@ -2555,17 +2555,17 @@ salary licence-needed
 
 full-time-job bs-degree-needed 2-4-years-experience-needed
 full-time-job licence-needed
-full-time-job licence-needed
-supervising-job
-full-time-job bs-degree-needed
-full-time-job 2-4-years-experience-needed supervising-job
-
-hourly-wage bs-degree-needed 2-4-years-experience-needed
 full-time-job
+
+full-time-job bs-degree-needed
+full-time-job salary supervising-job
+bs-degree-needed
+hourly-wage bs-degree-needed 2-4-years-experience-needed
+full-time-job hourly-wage
 
 hourly-wage salary
 salary 2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed
 supervising-job
 
 salary licence-needed
@@ -2573,45 +2573,45 @@ full-time-job licence-needed 2-4-years-experience-needed
 full-time-job
 
 salary supervising-job
-5-plus-years-experience-needed supervising-job
-bs-degree-needed
+supervising-job
+bs-degree-needed 2-4-years-experience-needed
 associate-needed 2-4-years-experience-needed
 salary
-2-4-years-experience-needed
+
 full-time-job
 full-time-job licence-needed
 full-time-job
-full-time-job salary bs-degree-needed
+salary bs-degree-needed
 2-4-years-experience-needed
 
-
 2-4-years-experience-needed
-hourly-wage licence-needed 2-4-years-experience-needed
+2-4-years-experience-needed
+full-time-job hourly-wage 2-4-years-experience-needed
 full-time-job licence-needed 1-year-experience-needed supervising-job
 
-
-2-4-years-experience-needed
+supervising-job
 bs-degree-needed 2-4-years-experience-needed
-bs-degree-needed supervising-job
-
+bs-degree-needed 2-4-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed supervising-job
-2-4-years-experience-needed
+licence-needed
+bs-degree-needed 5-plus-years-experience-needed supervising-job
+associate-needed 2-4-years-experience-needed
 licence-needed
 
 2-4-years-experience-needed
 
-full-time-job 2-4-years-experience-needed
+2-4-years-experience-needed
 licence-needed
 full-time-job 1-year-experience-needed
 licence-needed
-bs-degree-needed
+bs-degree-needed 2-4-years-experience-needed
 
 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
 2-4-years-experience-needed
-bs-degree-needed 1-year-experience-needed
+bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed
 5-plus-years-experience-needed supervising-job
-salary licence-needed 5-plus-years-experience-needed supervising-job
+salary licence-needed 5-plus-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 part-time-job
 hourly-wage supervising-job
@@ -2624,32 +2624,32 @@ hourly-wage
 
 
 hourly-wage bs-degree-needed 2-4-years-experience-needed
-ms-or-phd-needed licence-needed
+licence-needed
 full-time-job salary 2-4-years-experience-needed
 
 part-time-job
 licence-needed
-full-time-job
+full-time-job hourly-wage
 hourly-wage
-5-plus-years-experience-needed
+bs-degree-needed 5-plus-years-experience-needed supervising-job
 
 full-time-job
 2-4-years-experience-needed
 part-time-job licence-needed 2-4-years-experience-needed
-1-year-experience-needed 2-4-years-experience-needed
+2-4-years-experience-needed
 2-4-years-experience-needed
 full-time-job
 bs-degree-needed 5-plus-years-experience-needed
 
 full-time-job salary 2-4-years-experience-needed
 full-time-job hourly-wage
-
+licence-needed
 full-time-job 2-4-years-experience-needed
 5-plus-years-experience-needed
 full-time-job
 
 hourly-wage salary supervising-job
-2-4-years-experience-needed
+2-4-years-experience-needed supervising-job
 
 
 
@@ -2658,31 +2658,31 @@ full-time-job
 
 bs-degree-needed 2-4-years-experience-needed
 full-time-job salary
-supervising-job
+ms-or-phd-needed supervising-job
 
 2-4-years-experience-needed supervising-job
-part-time-job hourly-wage licence-needed
+part-time-job
 2-4-years-experience-needed 5-plus-years-experience-needed
-part-time-job full-time-job salary
+full-time-job salary
 licence-needed 2-4-years-experience-needed
-full-time-job hourly-wage
-full-time-job hourly-wage salary 1-year-experience-needed
+hourly-wage
+full-time-job salary 1-year-experience-needed
 part-time-job
 
 2-4-years-experience-needed
 licence-needed
 part-time-job hourly-wage associate-needed
-
+hourly-wage
 full-time-job
 bs-degree-needed 5-plus-years-experience-needed
-licence-needed 1-year-experience-needed 2-4-years-experience-needed
+licence-needed 1-year-experience-needed
 bs-degree-needed supervising-job
 
-full-time-job bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+full-time-job bs-degree-needed 2-4-years-experience-needed
 full-time-job 1-year-experience-needed 2-4-years-experience-needed
 2-4-years-experience-needed
 
-salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+salary bs-degree-needed 5-plus-years-experience-needed supervising-job
 
 bs-degree-needed 2-4-years-experience-needed supervising-job
 bs-degree-needed 5-plus-years-experience-needed
@@ -2691,32 +2691,32 @@ ms-or-phd-needed licence-needed
 full-time-job salary bs-degree-needed
 full-time-job salary supervising-job
 salary bs-degree-needed
-supervising-job
-salary licence-needed
+
+licence-needed
 bs-degree-needed 2-4-years-experience-needed supervising-job
 full-time-job licence-needed 2-4-years-experience-needed
-associate-needed bs-degree-needed 2-4-years-experience-needed
+associate-needed bs-degree-needed 2-4-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed supervising-job
 full-time-job salary 2-4-years-experience-needed
 
 licence-needed
-full-time-job salary supervising-job
+full-time-job salary bs-degree-needed supervising-job
 full-time-job
 licence-needed
 full-time-job licence-needed
-full-time-job salary licence-needed 2-4-years-experience-needed
+salary licence-needed 2-4-years-experience-needed
 5-plus-years-experience-needed supervising-job
 bs-degree-needed
 
 licence-needed
-full-time-job 5-plus-years-experience-needed
+5-plus-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 
-2-4-years-experience-needed
+2-4-years-experience-needed supervising-job
 bs-degree-needed
 
 salary bs-degree-needed 5-plus-years-experience-needed supervising-job
-bs-degree-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed supervising-job
 full-time-job
 2-4-years-experience-needed
 bs-degree-needed
@@ -2728,7 +2728,7 @@ licence-needed
 hourly-wage
 licence-needed
 5-plus-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 hourly-wage
 bs-degree-needed 2-4-years-experience-needed
 2-4-years-experience-needed
@@ -2737,7 +2737,7 @@ bs-degree-needed 2-4-years-experience-needed
 2-4-years-experience-needed
 salary supervising-job
 licence-needed
-5-plus-years-experience-needed
+2-4-years-experience-needed 5-plus-years-experience-needed
 licence-needed
 part-time-job hourly-wage
 bs-degree-needed 5-plus-years-experience-needed supervising-job
@@ -2746,87 +2746,87 @@ salary bs-degree-needed
 
 full-time-job hourly-wage
 1-year-experience-needed
-salary bs-degree-needed 2-4-years-experience-needed
+salary 2-4-years-experience-needed
 full-time-job 2-4-years-experience-needed
-
+hourly-wage
 part-time-job supervising-job
 full-time-job hourly-wage
 bs-degree-needed 2-4-years-experience-needed
-full-time-job licence-needed
+licence-needed
 salary 2-4-years-experience-needed supervising-job
 full-time-job salary
 full-time-job associate-needed
 bs-degree-needed supervising-job
 
 licence-needed
-licence-needed 2-4-years-experience-needed
+licence-needed 2-4-years-experience-needed supervising-job
 full-time-job
 bs-degree-needed 5-plus-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed
-full-time-job salary
-full-time-job ms-or-phd-needed supervising-job
+full-time-job salary licence-needed
+full-time-job salary supervising-job
 full-time-job supervising-job
-salary bs-degree-needed 1-year-experience-needed 2-4-years-experience-needed
+salary bs-degree-needed 2-4-years-experience-needed
 full-time-job 2-4-years-experience-needed
 2-4-years-experience-needed
 hourly-wage
-2-4-years-experience-needed supervising-job
+bs-degree-needed 2-4-years-experience-needed supervising-job
 bs-degree-needed 2-4-years-experience-needed
-bs-degree-needed 5-plus-years-experience-needed supervising-job
+bs-degree-needed 5-plus-years-experience-needed
 
-full-time-job supervising-job
+full-time-job
 2-4-years-experience-needed
 full-time-job 2-4-years-experience-needed
 
 salary licence-needed
 full-time-job licence-needed
-part-time-job 1-year-experience-needed
+part-time-job
 
 salary 2-4-years-experience-needed
 full-time-job licence-needed
 5-plus-years-experience-needed supervising-job
-part-time-job
+
 licence-needed
 
 salary 2-4-years-experience-needed supervising-job
-
+licence-needed
 supervising-job
-full-time-job hourly-wage
+part-time-job full-time-job hourly-wage
 licence-needed
 full-time-job 2-4-years-experience-needed supervising-job
 
-part-time-job hourly-wage
+part-time-job
 hourly-wage associate-needed 2-4-years-experience-needed
-full-time-job hourly-wage 1-year-experience-needed
+part-time-job full-time-job hourly-wage 1-year-experience-needed
 hourly-wage
-part-time-job hourly-wage licence-needed
+part-time-job hourly-wage
 
-
+hourly-wage
 
 full-time-job 2-4-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed
 salary
 full-time-job bs-degree-needed 2-4-years-experience-needed
-full-time-job salary bs-degree-needed 5-plus-years-experience-needed supervising-job
-hourly-wage
-full-time-job 2-4-years-experience-needed supervising-job
+full-time-job salary bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
+part-time-job hourly-wage
+full-time-job associate-needed 2-4-years-experience-needed
 
 
-full-time-job salary supervising-job
+full-time-job salary
 
 full-time-job salary
 part-time-job hourly-wage
-full-time-job bs-degree-needed 5-plus-years-experience-needed supervising-job
+full-time-job bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 1-year-experience-needed
 2-4-years-experience-needed
-bs-degree-needed 2-4-years-experience-needed
+2-4-years-experience-needed
 associate-needed bs-degree-needed 2-4-years-experience-needed
 full-time-job
 2-4-years-experience-needed
-associate-needed bs-degree-needed 1-year-experience-needed
-part-time-job
+bs-degree-needed 1-year-experience-needed
+part-time-job hourly-wage
 hourly-wage
-part-time-job
+
 full-time-job hourly-wage salary
 full-time-job
 bs-degree-needed 2-4-years-experience-needed
@@ -2836,10 +2836,10 @@ full-time-job salary
 
 5-plus-years-experience-needed
 
-part-time-job 2-4-years-experience-needed
+2-4-years-experience-needed
 
 full-time-job salary licence-needed
-full-time-job
+
 salary
 5-plus-years-experience-needed supervising-job
 licence-needed
@@ -2864,22 +2864,22 @@ salary 2-4-years-experience-needed
 
 salary 1-year-experience-needed
 bs-degree-needed 5-plus-years-experience-needed supervising-job
-full-time-job bs-degree-needed 2-4-years-experience-needed
+full-time-job bs-degree-needed
 
 
 
 full-time-job licence-needed
 
-associate-needed bs-degree-needed 5-plus-years-experience-needed supervising-job
-full-time-job associate-needed bs-degree-needed 2-4-years-experience-needed supervising-job
+associate-needed bs-degree-needed 5-plus-years-experience-needed
+full-time-job hourly-wage associate-needed bs-degree-needed 2-4-years-experience-needed supervising-job
 licence-needed
 bs-degree-needed 2-4-years-experience-needed supervising-job
-salary associate-needed
+salary
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 full-time-job salary 2-4-years-experience-needed
 bs-degree-needed 5-plus-years-experience-needed supervising-job
 full-time-job licence-needed
-part-time-job hourly-wage
+part-time-job
 
 1-year-experience-needed
 full-time-job
@@ -2890,27 +2890,27 @@ part-time-job hourly-wage
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
 part-time-job hourly-wage
 full-time-job supervising-job
-bs-degree-needed 2-4-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 
 licence-needed
-hourly-wage
+full-time-job hourly-wage
 full-time-job hourly-wage salary 2-4-years-experience-needed
-2-4-years-experience-needed
+
 bs-degree-needed 5-plus-years-experience-needed
-licence-needed 2-4-years-experience-needed
+full-time-job licence-needed 2-4-years-experience-needed
 salary
 
 2-4-years-experience-needed
 full-time-job
 
 full-time-job bs-degree-needed 5-plus-years-experience-needed supervising-job
-bs-degree-needed 2-4-years-experience-needed supervising-job
+bs-degree-needed
 hourly-wage licence-needed
-bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed supervising-job
-bs-degree-needed ms-or-phd-needed 2-4-years-experience-needed 5-plus-years-experience-needed
+bs-degree-needed 2-4-years-experience-needed supervising-job
+bs-degree-needed ms-or-phd-needed 5-plus-years-experience-needed
 bs-degree-needed 2-4-years-experience-needed 5-plus-years-experience-needed
 
-part-time-job
+
 associate-needed 5-plus-years-experience-needed
 salary supervising-job
 
@@ -2919,4 +2919,4 @@ licence-needed
 2-4-years-experience-needed
 licence-needed 2-4-years-experience-needed
 
-licence-needed
+
