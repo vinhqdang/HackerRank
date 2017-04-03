@@ -153,6 +153,8 @@ for (i in 1:12) {
   
   pre_d3 <- h2o.predict(d3, newdata = h_test)
   
+  print ("Ensemble")
+  
   all_pre = cbind (as.vector(pre_lr$predict),
                     as.vector(pre_gbm1$predict),
                     as.vector(pre_gbm2$predict),
