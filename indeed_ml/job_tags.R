@@ -6,7 +6,7 @@ train <- df[1:4375,]
 test <- df[4376:7296,]
 
 library (h2o)
-h2o.init()
+h2o.init(nthreads=-1)
 
 # h_train <- as.h2o (train)
 h_test <- as.h2o (test)
