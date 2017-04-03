@@ -111,11 +111,14 @@ for (i in 1:12) {
   # 
   # final_predicts <- cbind (final_predicts, as.vector(pred$predict))
   
+  print ("GLM")
+  
   lr <- h2o.glm(x=1:(ncol(new_df)-1),y=ncol(new_df),training_frame =  h_train,
                  family = "binomial")
   
   pre_lr <- h2o.predict(lr, newdata = h_test)
-
+  
+  print ("GBM")
 
   gbm1 <- h2o.gbm(x=1:(ncol(new_df)-1),y=ncol(new_df),training_frame =  h_train,
                  ntrees = 500)
@@ -124,7 +127,9 @@ for (i in 1:12) {
   gbm2 <- h2o.gbm(x=1:(ncol(new_df)-1),y=ncol(new_df),training_frame =  h_train,
                    ntrees = 200, max_depth = 10, learn_rate = 0.01)
   
-   pre_gbm2 <- h2o.predict(gbm2, newdata = h_test)
+  pre_gbm2 <- h2o.predict(gbm2, newdata = h_test)
+  
+  print ("random forest")
 
   rf1 <- h2o.randomForest(x=1:(ncol(new_df)-1),y=ncol(new_df),training_frame =  h_train,
                            ntrees = 500)
@@ -133,6 +138,8 @@ for (i in 1:12) {
   
   d1 <- h2o.deeplearning(x=1:(ncol(new_df)-1),y=ncol(new_df),training_frame =  h_train,
                           hidden = c(512))
+  
+  print ("DL")
   
   pre_d1 <- h2o.predict(d1, newdata = h_test)
   
