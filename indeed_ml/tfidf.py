@@ -30,14 +30,14 @@ def parse_args():
 
 args = parse_args()
 
-tokenize = lambda doc: doc.lower().split(" ")
-
-lmtzr = WordNetLemmatizer()
-
 # download some NLTK
 nltk.download ("stopwords")
 nltk.download ("wordnet")
 nltk.download ("punkt")
+
+tokenize = lambda doc: doc.lower().split(" ")
+
+lmtzr = WordNetLemmatizer()
 
 def jaccard_similarity(query, document):
     intersection = set(query).intersection(set(document))
