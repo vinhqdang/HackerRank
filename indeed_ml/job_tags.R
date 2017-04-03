@@ -136,10 +136,10 @@ for (i in 1:12) {
 
   pre_rf1 <- h2o.predict(rf1, newdata = h_test)
 
+  print ("DL")
+  
   d1 <- h2o.deeplearning(x=1:(ncol(new_df)-1),y=ncol(new_df),training_frame =  h_train,
                           hidden = c(512))
-
-  print ("DL")
 
   pre_d1 <- h2o.predict(d1, newdata = h_test)
 
@@ -170,7 +170,7 @@ for (i in 1:12) {
 
   for (j in 1:nrow(all_pre)) {
      a <- all_pre[j,]
-     res = (sum(a=="True") >= 3)
+     res = (sum(a=="True") >= 4)
      preds <- c(preds, res)
   }
 
