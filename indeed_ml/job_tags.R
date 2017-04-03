@@ -57,7 +57,7 @@ for (i in 1:12) {
   
   for (j in 1:nrow(all_pre)) {
     a <- all_pre[j,]
-    res = (sum(a=="True") >= 3)
+    res = (sum(a=="True") >= 2)
     preds <- c(preds, res)
   }
   
