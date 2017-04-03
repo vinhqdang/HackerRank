@@ -31,6 +31,7 @@ tag_list = ['part-time-job', 'full-time-job', 'hourly-wage', 'salary', 'associat
 '1-year-experience-needed', '2-4-years-experience-needed', '5-plus-years-experience-needed', 'supervising-job']
 
 def main():
+    print ('Out to submission file.')
     with open (args.out_file, 'w') as out_f:
         out_f.write ('tags\n')
     with open (args.in_file, 'r') as f:
