@@ -34,6 +34,11 @@ tokenize = lambda doc: doc.lower().split(" ")
 
 lmtzr = WordNetLemmatizer()
 
+# download some NLTK
+nltk.download ("stopwords")
+nltk.download ("wordnet")
+nltk.download ("punkt")
+
 def jaccard_similarity(query, document):
     intersection = set(query).intersection(set(document))
     union = set(query).union(set(document))
